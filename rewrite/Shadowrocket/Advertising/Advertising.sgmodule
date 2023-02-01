@@ -1,18 +1,15 @@
 #!name=Advertising
-#!desc=最后更新时间 2023-02-01 02:15:33
+#!desc=最后更新时间 2023-02-02 02:12:51
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
-#!reject=541
+#!reject=542
 #!mitm=497
-#!total=1038
+#!total=1039
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
 
 [URL Rewrite]
-^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.fliggy\.crm\.screen\.allresource - reject
-^https:\/\/api\.caiyunapp\.com\/v1\/activity - reject
-^https:\/\/api\.gameplus\.qq\.com\/community\.OnloadSrv\/GetPreloadScreenInfo - reject
 ^https:\/\/mxsa\.mxbc\.net\/api\/v1\/adinfo\/limitedAds$ - reject
 ^https:\/\/router-app-api\.jdcloud\.com\/v\d\/board\/routerAppSplash - reject
 ^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
@@ -80,12 +77,14 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/ - reject-200
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.etao\.noah\.query\/.+tao_splash - reject-200
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/ - reject
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.fliggy\.crm\.screen\.allresource - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/ - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/ - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/ - reject
 ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show\.do - reject
 ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show - reject
 ^https?:\/\/activity2\.api\.ofo\.com\/ofo\/Api\/v2\/ads - reject-200
+^https?:\/\/adapi\.izuiyou\.com\/ - reject
 ^https?:\/\/adm\.10jqka\.com\.cn\/interface\/ad\/recommend - reject
 ^https?:\/\/adpai\.thepaper\.cn\/.+?&ad= - reject-200
 ^https?:\/\/adproxy\.autohome\.com\.cn\/AdvertiseService\/ - reject
@@ -110,6 +109,7 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 ^https?:\/\/api\.applovefrom\.com\/api\/v\d\/splash\/ - reject
 ^https?:\/\/api\.bjxkhc\.com\/index\.php\/app\/ios\/ads\/ - reject
 ^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/ - reject
+^https?:\/\/api\.caiyunapp\.com\/v1\/activity - reject
 ^https?:\/\/api\.catch\.gift\/api\/v\d\/pagead\/ - reject
 ^https?:\/\/api\.cdmcaac\.com\/ad\/ - reject
 ^https?:\/\/api\.chelaile\.net\.cn\/adpub\/ - reject
@@ -123,6 +123,7 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash - reject
 ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch - reject
 ^https?:\/\/api\.futunn\.com\/v\d\/ad\/ - reject
+^https?:\/\/api\.gameplus\.qq\.com\/community\.OnloadSrv\/GetPreloadScreenInfo - reject
 ^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/ - reject
 ^https?:\/\/api\.gotokeep\.com\/ads - reject
 ^https?:\/\/api\.gotokeep\.com\/op-engine-webapp\/v\d\/ad/ - reject
