@@ -1,58 +1,84 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-02 14:48:06
-# DOMAIN: 9969
+# UPDATED: 2023-02-03 02:08:11
+# DOMAIN: 9972
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 104682
 # IP-CIDR: 239
-# TOTAL: 115154
+# TOTAL: 115157
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 46186911.vtt
 7d108.cn
 80055404.vtt
 aab-proxy.tld
 absurdapple.com
+adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
+adsdk.yandex.ru
+an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
+apple.www.letv.com
 applesometimes.com
+applets.ebxcdn.com
+awaps.yandex.ru
 awsync.yandex.ru
+bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
+bs.yandex.ru
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
 februaryreductionapplet.com
 fpb1.apple886.com
+ganon.yahoo.com
+geo.yahoo.com
 iadsdk.apple.com
 ib.snssdk.com
 ijvzmua.cn
+informer.yandex.ru
+jill.fc.yahoo.com
 jpaasne.e.shifen.com
 llvphz.xyz
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
+mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
 mprjoat.cn
+nol.yahoo.com
 pr.comet.yahoo.com
+pv.sohu.com
 qbd2.site
 rrf.fat1domain1
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
+sugar.zhihu.com
+supportmetrics.apple.com
 sxakca.xyz
+test.vast
 theapple.site
+thraerqol.com
+visit.webhosting.yahoo.com
+waterfairy.xyz
 wondefulapplend.com
 wuepo.cn
 wzjs1.oss-accelerate.aliyuncs.com
 x3zy2.icu
+yollamedia.com
 youtube.local
 zt1.me.zing.vn
 ad.xy2013.cn
@@ -9935,32 +9961,13 @@ wvvvvvvw.zhongchaoyinshua.com
 wx.yubangsmart.com
 xc.xiyqjea.cn
 xg.tjwmtrw.cn
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 ad.kddi-fs.com
-adfox.yandex.ru
-adsdk.yandex.ru
-an.yandex.ru
-apple.www.letv.com
-applets.ebxcdn.com
-awaps.yandex.ru
-bats.video.yahoo.com
-bs.yandex.ru
 clear.wallapop.com
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
 e.legalstart.fr
-ganon.yahoo.com
 gct.americanexpress.com
-geo.yahoo.com
-informer.yandex.ru
-jill.fc.yahoo.com
 log.kuwo.cn
-mc.yandex.ru
 metrics.apple.com
-nol.yahoo.com
 pt.legalstart.fr
-pv.sohu.com
 ras.yahoo.com
 rba-screen.healthsafe-id.com
 retcode.taobao.com
@@ -9970,12 +9977,8 @@ securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
 stats.sandberg.world
-sugar.zhihu.com
-supportmetrics.apple.com
 tao.barstoolsports.com
-test.vast
 tla.traderlink.com
-visit.webhosting.yahoo.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
