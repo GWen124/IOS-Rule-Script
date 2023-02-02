@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-01 02:11:03
-# DOMAIN: 178
+# UPDATED: 2023-02-02 14:50:13
+# DOMAIN: 177
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37750
+# DOMAIN-SUFFIX: 37756
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38078
+# TOTAL: 38083
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -32,7 +32,6 @@ azuremarketplace.microsoft.com
 beatselectronicsllc.tt.omtrdc.net
 beck-online.beck.de
 blizzard.nefficient.co.kr
-blog.youngmoe.com
 blz.nosdn.127.net
 blznav.akamaized.net
 bnetshopus.akamaized.net
@@ -2490,6 +2489,7 @@ assets-priconne-redive-us.akamaized.net
 .boulx.com
 .boundhub.com
 .bountyhunterporn.com
+.bowlroll.net
 .bowsersinsidestory.com
 .boxofficemojo.com
 .boy18tube.com
@@ -3182,6 +3182,7 @@ assets-priconne-redive-us.akamaized.net
 .collegejournal.com
 .collegepornonly.com
 .colombianas.webcam
+.colorfulstage.com
 .colorprotechnology.com
 .comdotgame.com
 .comeav.com
@@ -7695,6 +7696,7 @@ assets-priconne-redive-us.akamaized.net
 .magentocommerce.com
 .magentoliveconference.com
 .magentomobile.com
+.magicalmirai.com
 .magicmovies.com
 .mahajantech.com
 .mahjongcup.cn
@@ -8009,6 +8011,7 @@ assets-priconne-redive-us.akamaized.net
 .miitomo.com
 .miiverse.com
 .miktex.org
+.mikuexpo.com
 .milehighmedia.com
 .milfbundle.com
 .milfed.com
@@ -9566,6 +9569,7 @@ assets-priconne-redive-us.akamaized.net
 .phxbmw.com
 .physicalexam.info
 .physiology.org
+.piapro.net
 .picacg2022.com
 .picacn.xyz
 .picacomic.xyz
@@ -11069,6 +11073,7 @@ assets-priconne-redive-us.akamaized.net
 .sneaker666.com
 .sneakerpage.net
 .sneakerskick.com
+.snowmiku.com
 .soasta-dswb.com
 .socalbmw.com
 .soccermatchpass.com

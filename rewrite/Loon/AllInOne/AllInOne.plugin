@@ -1,5 +1,5 @@
 #!name= AllInOne
-#!desc= 最后更新时间 2023-02-02 02:12:56
+#!desc= 最后更新时间 2023-02-02 14:54:00
 #!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
@@ -21,7 +21,7 @@ DOMAIN,mqtt.zhihu.com,REJECT
 DOMAIN,sugar.zhihu.com,REJECT
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\?,REJECT
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/launch_v2\?,REJECT
-URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/real_time_launch_v2\?REJECT
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/real_time_launch_v2\?,REJECT
 URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJECT
 
 
@@ -217,7 +217,7 @@ URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJ
 ^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ - reject
 ^https?:\/\/capis\.didapinche\.com\/ad\/ - reject
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
-^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject-dict
+^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject
 ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn\/63c4e3b558bb610008969f89 - reject-200
 ^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/ - reject
 ^https?:\/\/cdn\.cmgadx\.com\/sdk\/pool\/\w+\.json - reject

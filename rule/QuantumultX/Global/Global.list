@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-01 02:11:36
+# UPDATED: 2023-02-02 14:50:42
 # HOST: 393
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 38073
+# HOST-SUFFIX: 38079
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38660
+# TOTAL: 38666
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
@@ -61,7 +61,6 @@ HOST,beta.music.apple.com,Global
 HOST,bingsettingssearch.trafficmanager.net,Global
 HOST,blizzard.nefficient.co.kr,Global
 HOST,blizzcon-a.akamaihd.net,Global
-HOST,blog.youngmoe.com,Global
 HOST,blz.nosdn.127.net,Global
 HOST,blzddistkr1-a.akamaihd.net,Global
 HOST,blzmedia-a.akamaihd.net,Global
@@ -143,6 +142,7 @@ HOST,elib.maruzen.co.jp,Global
 HOST,espn.api.edge.bamgrid.com,Global
 HOST,espn.hb.omtrdc.net,Global
 HOST,espndotcom.tt.omtrdc.net,Global
+HOST,f3b7q2p3.ssl.hwcdn.net,Global
 HOST,fandom.zendesk.com,Global
 HOST,faronics.kayako.com,Global
 HOST,fbcdn-a.akamaihd.net,Global
@@ -2665,6 +2665,7 @@ HOST-SUFFIX,botstop.com,Global
 HOST-SUFFIX,boulx.com,Global
 HOST-SUFFIX,boundhub.com,Global
 HOST-SUFFIX,bountyhunterporn.com,Global
+HOST-SUFFIX,bowlroll.net,Global
 HOST-SUFFIX,bowsersinsidestory.com,Global
 HOST-SUFFIX,boxofficemojo.com,Global
 HOST-SUFFIX,boy18tube.com,Global
@@ -3349,6 +3350,7 @@ HOST-SUFFIX,collective99.com,Global
 HOST-SUFFIX,collegejournal.com,Global
 HOST-SUFFIX,collegepornonly.com,Global
 HOST-SUFFIX,colombianas.webcam,Global
+HOST-SUFFIX,colorfulstage.com,Global
 HOST-SUFFIX,colorprotechnology.com,Global
 HOST-SUFFIX,comdotgame.com,Global
 HOST-SUFFIX,comeav.com,Global
@@ -7692,6 +7694,7 @@ HOST-SUFFIX,magento.net,Global
 HOST-SUFFIX,magentocommerce.com,Global
 HOST-SUFFIX,magentoliveconference.com,Global
 HOST-SUFFIX,magentomobile.com,Global
+HOST-SUFFIX,magicalmirai.com,Global
 HOST-SUFFIX,magicmovies.com,Global
 HOST-SUFFIX,mahajantech.com,Global
 HOST-SUFFIX,mahjongcup.cn,Global
@@ -8004,6 +8007,7 @@ HOST-SUFFIX,midentsolutions.com,Global
 HOST-SUFFIX,miitomo.com,Global
 HOST-SUFFIX,miiverse.com,Global
 HOST-SUFFIX,miktex.org,Global
+HOST-SUFFIX,mikuexpo.com,Global
 HOST-SUFFIX,milehighmedia.com,Global
 HOST-SUFFIX,milfbundle.com,Global
 HOST-SUFFIX,milfed.com,Global
@@ -9549,6 +9553,7 @@ HOST-SUFFIX,phun.org,Global
 HOST-SUFFIX,phxbmw.com,Global
 HOST-SUFFIX,physicalexam.info,Global
 HOST-SUFFIX,physiology.org,Global
+HOST-SUFFIX,piapro.net,Global
 HOST-SUFFIX,picacg2022.com,Global
 HOST-SUFFIX,picacn.xyz,Global
 HOST-SUFFIX,picacomic.xyz,Global
@@ -10973,6 +10978,7 @@ HOST-SUFFIX,snapwebcams.com,Global
 HOST-SUFFIX,sneaker666.com,Global
 HOST-SUFFIX,sneakerpage.net,Global
 HOST-SUFFIX,sneakerskick.com,Global
+HOST-SUFFIX,snowmiku.com,Global
 HOST-SUFFIX,soasta-dswb.com,Global
 HOST-SUFFIX,socalbmw.com,Global
 HOST-SUFFIX,soccermatchpass.com,Global
