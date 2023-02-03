@@ -1,16 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-03 02:08:11
-# DOMAIN: 9972
+# UPDATED: 2023-02-04 02:08:02
+# DOMAIN: 9990
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 104682
+# DOMAIN-SUFFIX: 104731
 # IP-CIDR: 239
-# TOTAL: 115157
+# TOTAL: 115224
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
-7d108.cn
 80055404.vtt
 aab-proxy.tld
 absurdapple.com
@@ -19,8 +18,10 @@ adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
 adsdk.yandex.ru
+ahclyq.xyz
 an.yandex.ru
 anxiousapples.com
+api-ad-adapter.wps.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
@@ -29,58 +30,74 @@ applesometimes.com
 applets.ebxcdn.com
 awaps.yandex.ru
 awsync.yandex.ru
+bagwynbilgier.com
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bieliddittied.com
 blueduckredapple.com
 bs.yandex.ru
+collect.alphastream.io
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
+dammarsnektons.com
+dfsd22.com
+dfzv25.com
 dmg-dd.oss-accelerate.aliyuncs.com
 februaryreductionapplet.com
+flyersquare.com
 fpb1.apple886.com
+fqla.top
 ganon.yahoo.com
 geo.yahoo.com
+glasyxabe.pro
+halfhaled.com
+hppmy.cn
 iadsdk.apple.com
 ib.snssdk.com
-ijvzmua.cn
 informer.yandex.ru
+jike001.top
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
-llvphz.xyz
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
 mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
+mindamender.com
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-mprjoat.cn
 nol.yahoo.com
+partial-bitter.com
 pr.comet.yahoo.com
 pv.sohu.com
-qbd2.site
+qbd3.site
 rrf.fat1domain1
+rtycgmz.cn
+serpentshampoo.com
 shackapple.com
+stat.arzamas.academy
 stats.video.search.yahoo.com
 sub.powerapple.com
 sugar.zhihu.com
 supportmetrics.apple.com
-sxakca.xyz
+tanghao.club
 test.vast
 theapple.site
-thraerqol.com
+thlnbzi.cn
+turmitweir.com
+tvxqdp.xyz
 visit.webhosting.yahoo.com
-waterfairy.xyz
+w80n.fun
 wondefulapplend.com
-wuepo.cn
 wzjs1.oss-accelerate.aliyuncs.com
-x3zy2.icu
-yollamedia.com
+xeiyt.cyou
 youtube.local
-zt1.me.zing.vn
+zads.me.zing.vn
+zczcvx.com
+zt.me.zing.vn
 ad.xy2013.cn
 ads.play.cbsi.video
 api.cupid.dns.iqiyi.com
@@ -7636,7 +7653,6 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
-tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9904,6 +9920,7 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
+tat.pandora.xiaomi.com
 39d83s.com
 aboard.apilocate.amap.com
 access.open.uc.cn
@@ -9965,6 +9982,7 @@ ad.kddi-fs.com
 clear.wallapop.com
 e.legalstart.fr
 gct.americanexpress.com
+log-gateway.zoom.us
 log.kuwo.cn
 metrics.apple.com
 pt.legalstart.fr
@@ -11407,6 +11425,7 @@ tla.traderlink.com
 .7cc70.com
 .7cdf78unokr7.ru
 .7d0feff074.com
+.7d108.cn
 .7d9bbf7e5b.com
 .7daystodie.cn
 .7db0b2a0ee95f557904.com
@@ -12188,6 +12207,7 @@ tla.traderlink.com
 .acdcdn.com
 .acdn01.vidox.net
 .acdnpro.com
+.acduyqwnz.com
 .ace.naver.com
 .aceadsys.net
 .acecounter.com
@@ -16227,6 +16247,7 @@ tla.traderlink.com
 .anhuigecui.cn
 .anian1.weebly.com
 .anicli.click
+.anida.info
 .anightsregalia.cam
 .animated-button.pro
 .animated-company.pro
@@ -17187,6 +17208,7 @@ tla.traderlink.com
 .attractivehobby.com
 .attractiveother.pro
 .attrapincha.com
+.attributedconcernedamendable.com
 .attributedminded.com
 .attributedrelease.com
 .attribution.report
@@ -19148,6 +19170,7 @@ tla.traderlink.com
 .bjzshy.cn
 .bjzysd.net
 .bk.goodline.info
+.bkbhejseov.com
 .bkembwdgujzp.com
 .bkisss.com
 .bkl72.com
@@ -19175,6 +19198,7 @@ tla.traderlink.com
 .blacklinknowss.co
 .blackmailingpanic.com
 .blackname.biz
+.blacknesskeepplan.com
 .blackqpid.org.uk
 .blacktri-a.akamaihd.net
 .blacktri.com
@@ -19771,6 +19795,7 @@ tla.traderlink.com
 .brillspedlars.com
 .brinaltrak.com
 .bringmethehats.com
+.bringsconserve.com
 .brinishancress.website
 .brinyregrant.com
 .briolenproc.pics
@@ -21983,6 +22008,7 @@ tla.traderlink.com
 .cms100.xyz
 .cmsxodnj.xyz
 .cmuohlatpsp.com
+.cmvihhhelf.com
 .cmvrclicks000.com
 .cmweb.ilike.alibaba.com
 .cmyx.xyz
@@ -25843,6 +25869,7 @@ tla.traderlink.com
 .dtto8zfzskfoa.cloudfront.net
 .dtu2kitmpserg.cloudfront.net
 .dtv5loup63fac.cloudfront.net
+.dtv5ske218f44.cloudfront.net
 .dtx.click
 .dtxngr.com
 .dtxtngytz5im1.cloudfront.net
@@ -26956,6 +26983,7 @@ tla.traderlink.com
 .epushclick.com
 .eputfeable.co
 .eqacypykxa.com
+.eqeknhxxwmeys.top
 .eqfgc.com
 .eqj2a3bx.cn
 .eqmx04n5s0.ru
@@ -26967,6 +26995,7 @@ tla.traderlink.com
 .equere.com
 .equesk.com
 .equitaine.fr
+.equitydefault.com
 .equityjesusdisappointment.com
 .eqyzc.cyou
 .er.5ykj.cn
@@ -27878,6 +27907,7 @@ tla.traderlink.com
 .fbsecurity.co
 .fbthirdpartypixel.com
 .fbuser.ovp.vn
+.fbwaikol.com
 .fbwvly.cn
 .fc.webmasterpro.de
 .fc2ppv.buzz
@@ -28337,6 +28367,7 @@ tla.traderlink.com
 .flaxenvapour.com
 .flaxierfilmset.com
 .flaxim.com
+.flaxlistedleague.com
 .flaxseedssoenrh4372ojd.com
 .flbox.net
 .flcounter.com
@@ -29248,6 +29279,7 @@ tla.traderlink.com
 .gazia.fr
 .gbaseby.ru
 .gbcvbnv5.com
+.gbeqibqtxknt.com
 .gbfgvzfcjfs.com
 .gbfwqsakvaysygn.xyz
 .gbgijiiiabgebdjiadh.ru
@@ -29331,6 +29363,7 @@ tla.traderlink.com
 .gdmdigital.com
 .gdmgsecure.com
 .gdn.bigfishgames.com
+.gdrisajx.com
 .gdsoq.com
 .gdugga.com
 .gdxinya.com
@@ -29887,6 +29920,7 @@ tla.traderlink.com
 .glorialoft.com
 .gloriousbeef.com
 .gloriousexternal.com
+.glossaunbrown.website
 .glossingly.com
 .glossisobelhay.com
 .glostsbluntie.digital
@@ -30571,6 +30605,7 @@ tla.traderlink.com
 .guji.store
 .gujiadayuan.top
 .guktuti.ru
+.gullible-hope.com
 .gulliblecamp.com
 .gulliblecontextsteed.com
 .gulpduereason.com
@@ -32449,6 +32484,7 @@ tla.traderlink.com
 .ijspro-code.com
 .ijswq.com
 .ijsxk.com
+.ijvzmua.cn
 .ijwfyirxx.xyz
 .ikajeoes.com
 .ikbgika.cn
@@ -32615,6 +32651,7 @@ tla.traderlink.com
 .immenseflakespyramid.com
 .immensehoney.com
 .immenselyloot.com
+.immigrantpavement.com
 .immigrateignorantdual.com
 .immise.com
 .immisurns.com
@@ -33321,6 +33358,7 @@ tla.traderlink.com
 .irenicaserrano.com
 .ireraisin.com
 .irethertoldimn.xyz
+.irgayuwmhj.com
 .iringtgandm.one
 .irinto.com
 .irkerecue.com
@@ -33744,6 +33782,7 @@ tla.traderlink.com
 .jefctihngyjpogd.xyz
 .jeffstrategic.com
 .jehobsee.com
+.jehpefquik.com
 .jeisl.com
 .jekson44.ru
 .jelfmtsr5i.ru
@@ -35507,6 +35546,7 @@ tla.traderlink.com
 .lateralphonesecurity.xyz
 .latereshi.pro
 .latest-songs.com
+.latestgrace.com
 .latgqaolitkli.com
 .latheendsmoo.com
 .latinnathathem.com
@@ -35540,6 +35580,7 @@ tla.traderlink.com
 .lavamedia.vn
 .lavando2scas1hh1.com
 .lavanetwork.net
+.lavatorybrandnew.com
 .lavatoryhitschoolmaster.com
 .laveerscurf.com
 .lavishvanish.com
@@ -36310,6 +36351,7 @@ tla.traderlink.com
 .lloogg.com
 .llq9q2lacr.com
 .llsynmll.fun
+.llvphz.xyz
 .llyhbqn.cn
 .llyvjs.com
 .lm1.wkpcw.cn
@@ -39022,6 +39064,7 @@ tla.traderlink.com
 .mppmnetwork.com
 .mpression.net
 .mprezchc.com
+.mprjoat.cn
 .mps-gba.de
 .mps.wenkuzu.com
 .mpstat.us
@@ -39807,6 +39850,7 @@ tla.traderlink.com
 .negyuk.com
 .nehagex.cn
 .nehersheteen.pro
+.nehjnhektmg.com
 .nehodyshy.pro
 .nehuha.ru
 .neighborlywatch.com
@@ -41151,6 +41195,7 @@ tla.traderlink.com
 .oglasi.posjetnica.com
 .ogle-0740lb.com
 .ogleskys.live
+.oglooque.com
 .ogmghzpyq.com
 .ognlaigk.fun
 .ognyvo-topnews.ru
@@ -41500,6 +41545,7 @@ tla.traderlink.com
 .onmarshtompor.com
 .onmypc.net
 .onpluslean.com
+.onquercaniceberg.com
 .onscroll.com
 .onsequentlys.xyz
 .onsetknives.com
@@ -41722,6 +41768,7 @@ tla.traderlink.com
 .orderlyregister.pro
 .ordersildenafil.com
 .orderz.lol
+.ordinaryleaving.com
 .ordremek.fr
 .ordxcutu.com
 .oreakingoutin.info
@@ -41773,6 +41820,7 @@ tla.traderlink.com
 .os-data.com
 .os.scmpacdn.com
 .osaceikmxsm.com
+.osaud.com
 .oscarredwith.xyz
 .oscism.com
 .osd-onead.cdn.hinet.net
@@ -42588,6 +42636,7 @@ tla.traderlink.com
 .pcads.ru
 .pcash.imlive.com
 .pcblibraries.fr
+.pcbuqpdytqanufu.xyz
 .pcfdgc.cn
 .pchkhlskear.xyz
 .pci.pornclipsxxx.com
@@ -44834,6 +44883,7 @@ tla.traderlink.com
 .pymsqjixir.xyz
 .pymx5.com
 .pyntr.xyz
+.pyoungstersofto.xyz
 .pyq6n.com
 .pyropenunmould.com
 .pyrroylceriums.com
@@ -44893,6 +44943,7 @@ tla.traderlink.com
 .qbc1.cn
 .qbcydxr.cn
 .qbd1.site
+.qbd2.site
 .qbgrmsk.cn
 .qbhdn.com
 .qbhyczr5hw.ru
@@ -45082,6 +45133,7 @@ tla.traderlink.com
 .qndytvy.cn
 .qnieo.fun
 .qnipkk.xyz
+.qnmhotpnwhdrwu.com
 .qnmvqdl.cn
 .qnnmyjnnaoohdv.xyz
 .qnsr.com
@@ -45316,6 +45368,7 @@ tla.traderlink.com
 .qwtag.com
 .qx3g.top
 .qx568.com
+.qxdeqrxsxbnqbm.com
 .qxeemdpaerfjer.xyz
 .qxlaqfjyguehuu.com
 .qxlidy.ink
@@ -45389,6 +45442,7 @@ tla.traderlink.com
 .rablinhiphape.com
 .raccourir.xyz
 .racleo.com
+.racterdeet.com
 .radarconsultation.com
 .radarstats.com
 .radarurl.com
@@ -46829,6 +46883,7 @@ tla.traderlink.com
 .rovettobirse.com
 .rovion.com
 .rovno.xyz
+.rowansportstriped.com
 .rowemfg.com
 .rowensalmner.com
 .rowenspopped.website
@@ -47024,6 +47079,7 @@ tla.traderlink.com
 .rulingcaviarreliance.com
 .rulmnehkhf.xyz
 .rulovar.com
+.rulroagh.xyz
 .rumandwaterv.info
 .rumblyjouking.store
 .rummagemason.com
@@ -50354,6 +50410,7 @@ tla.traderlink.com
 .stretchingcognitioncommission.com
 .stretchingfervid.com
 .stretchsquirrel.com
+.strictgrittwine.com
 .strigh.com
 .striglusor.com
 .strikead.com
@@ -50721,6 +50778,7 @@ tla.traderlink.com
 .sweaterwarmly.com
 .swedecornysupper.com
 .sweepawejasper.com
+.sweepfrequencydissolved.com
 .sweepia.com
 .sweepprolong.com
 .sweet-water.org
@@ -50765,6 +50823,7 @@ tla.traderlink.com
 .sx.fakjkwp.cn
 .sx.nazari.org
 .sx.z0rz.com
+.sxakca.xyz
 .sxbexrv.cn
 .sxbxzc.com
 .sxieqbu.cn
@@ -51706,6 +51765,7 @@ tla.traderlink.com
 .thenewstreams.com
 .thenewswire.fr
 .thenicenewz.com
+.theodyscreams.store
 .theologizerg.xyz
 .theonecdn.com
 .theoremreach.com
@@ -51828,6 +51888,7 @@ tla.traderlink.com
 .thoughtthricecompress.com
 .thoupsou.net
 .thousandfixedlyyawn.com
+.thraerqol.com
 .thrate.com
 .thraxgawks.guru
 .threatenedorientalavailable.com
@@ -54911,6 +54972,7 @@ tla.traderlink.com
 .viewscout.com
 .viewstracker.com
 .viewtools.com
+.viewtraff.com
 .vifog.com
 .vifzod.com
 .viglink.fr
@@ -55091,6 +55153,7 @@ tla.traderlink.com
 .vividly.site
 .vivistats.com
 .vivocha.com
+.vixmwnivtbqk.com
 .vixoafte.xyz
 .viyuzi.xyz
 .vizisense.net
@@ -55419,6 +55482,7 @@ tla.traderlink.com
 .vzadtu.cn
 .vzarabotke.ru
 .vzigttqgqx.com
+.vzoosjtwatu.com
 .vzrufh.com
 .vztfc.com
 .vztkmhf.cn
@@ -55599,6 +55663,7 @@ tla.traderlink.com
 .watchtaro.com
 .watchthistop.net
 .water-bed.8p.org.uk
+.waterfairy.xyz
 .waterproofmanipulativereunion.com
 .waterstudio.fr
 .watieb.com
@@ -56718,6 +56783,7 @@ tla.traderlink.com
 .wuckaity.com
 .wudejia.com
 .wudr.net
+.wuepo.cn
 .wufel.ml
 .wugabts.com
 .wuge20230104.live
@@ -57374,6 +57440,7 @@ tla.traderlink.com
 .x3-predictor.goguardian.com
 .x3a88d.cn
 .x3kxysp.cn
+.x3zy2.icu
 .x4.lov3.net
 .x40u1vj75ks9.com
 .x4300tiz.com
@@ -57726,6 +57793,7 @@ tla.traderlink.com
 .xpanama.net
 .xpantivirus.com
 .xpartners.nl
+.xpblitgpg.com
 .xpdjsd.cn
 .xpdyqax.cn
 .xpectthatmy.shop
@@ -58320,6 +58388,7 @@ tla.traderlink.com
 .yoiprqtykkhhfq.com
 .yoiqacw.cn
 .yokeeroud.com
+.yollamedia.com
 .yomaza.net
 .yomedia.vn
 .yomeno.xyz
@@ -58449,6 +58518,7 @@ tla.traderlink.com
 .yowbbxi.cyou
 .yowledwarm.website
 .yoyadsdom.com
+.yozyboqyiy.com
 .ypiads.com
 .yping.online
 .ypjmvdfxqw.com
@@ -58783,6 +58853,7 @@ tla.traderlink.com
 .zdktgps.cn
 .zdorovmagazine.ru
 .zdrawnews.ru
+.zdreo.cyou
 .zdrvtmj.cn
 .zdryg.com
 .zdsfnagupwkztl.com
@@ -59192,6 +59263,7 @@ tla.traderlink.com
 .zsxrhkrfwwv.com
 .zsyk91.cn
 .zt-uc-baidu.cc
+.zt1.me.zing.vn
 .zt5g.top
 .ztcadx.com
 .ztech.gq
@@ -59219,6 +59291,7 @@ tla.traderlink.com
 .zugo.com
 .zuibandao.club
 .zujilife.online
+.zukore.com
 .zukxd6fkxqn.com
 .zuliglsa.space
 .zulu.r867qq.net
@@ -73126,7 +73199,6 @@ tla.traderlink.com
 .acconsento.click
 .accscdn.m.taobao.com
 .acdn.uploads.mobi
-.acduyqwnz.com
 .acesbashlyk.com
 .acetoljaguar.com
 .acfmycpgiunq.com
@@ -76020,7 +76092,6 @@ tla.traderlink.com
 .blackbook.coniferhealth.com
 .blackcurrantfootballsimilarly.com
 .blackhole.m.jd.com
-.blacknesskeepplan.com
 .blackpics.net
 .bladenoddingstepfather.com
 .blamads-assets.s3.amazonaws.com
@@ -82110,7 +82181,6 @@ tla.traderlink.com
 .fbooksluts.com
 .fbtrack.mensuas.com
 .fbuhtx.airfix.com
-.fbwaikol.com
 .fc.itmedia.co.jp
 .fc3tn.baidu.com
 .fc5tn.baidu.com
@@ -85225,7 +85295,6 @@ tla.traderlink.com
 .iranismepode.com
 .irbtiaybbjrule.com
 .iremmk.estnation.co.jp
-.irgayuwmhj.com
 .iridiumsergeiprogenitor.info
 .iris.tv
 .irkdsu.ru
@@ -99429,7 +99498,6 @@ tla.traderlink.com
 .view.nucorbuildingsystems.com
 .viewerproxy-niu-ssl.xunlei.com
 .viewpoint.com
-.viewtraff.com
 .vifyzymo.com
 .vighea.com
 .vigllnztz.com
@@ -101459,7 +101527,6 @@ tla.traderlink.com
 .youzok.lol
 .yowoos.primrose.co.uk
 .yoyue.net
-.yozyboqyiy.com
 .yp.shuhuangge.org
 .yphmgzkojubwxn.com
 .ypkado.clicrbs.com.br

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-02 14:51:08
+# UPDATED: 2023-02-04 02:10:31
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65868
+# DOMAIN-SUFFIX: 65869
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66065
+# TOTAL: 66066
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -41639,6 +41639,7 @@ payload:
   - DOMAIN-SUFFIX,myottad.com
   - DOMAIN-SUFFIX,myouth.net
   - DOMAIN-SUFFIX,myp2pch.net
+  - DOMAIN-SUFFIX,mypaas.com
   - DOMAIN-SUFFIX,mypal.wang
   - DOMAIN-SUFFIX,mypcrun.com
   - DOMAIN-SUFFIX,mypethome.com

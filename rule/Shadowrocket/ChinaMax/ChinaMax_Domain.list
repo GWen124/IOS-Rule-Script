@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-02 14:52:23
+# UPDATED: 2023-02-04 02:11:29
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67290
+# DOMAIN-SUFFIX: 67291
 # IP-ASN: 932
-# IP-CIDR: 10231
+# IP-CIDR: 10266
 # USER-AGENT: 65
-# TOTAL: 78705
+# TOTAL: 78741
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -41156,6 +41156,7 @@ xn--flw351e.com
 .myottad.com
 .myouth.net
 .myp2pch.net
+.mypaas.com
 .mypal.wang
 .mypcrun.com
 .mypethome.com
