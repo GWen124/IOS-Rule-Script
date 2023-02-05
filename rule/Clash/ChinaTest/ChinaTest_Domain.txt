@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-05 02:10:11
+# UPDATED: 2023-02-06 02:10:21
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65826
@@ -611,6 +611,7 @@ xn--flw351e.com
 .apigwtencent.com
 .apk3.com
 .apk8.com
+.aplaybox.com
 .apollo.auto
 .appchina.com
 .appeeres.com
@@ -891,6 +892,12 @@ xn--flw351e.com
 .cecport.com
 .centanet.com
 .cerambath.org
+.cf-ns.com
+.cf-ns.net
+.cf-ns.site
+.cf-ns.tech
+.cftest7.com
+.cftest8.com
 .cfund108.com
 .cfzq.com
 .cgws.com
@@ -1019,6 +1026,12 @@ xn--flw351e.com
 .clouddatong.com
 .clouddn.com
 .clouddongying.com
+.cloudflare-cn.com
+.cloudflarecn.net
+.cloudflareinsights-cn.com
+.cloudflareprod.com
+.cloudflarestaging.com
+.cloudflarestoragegw.com
 .cloudfoshan.com
 .cloudfront-cn.net
 .cloudfuqing.com
@@ -1236,6 +1249,7 @@ xn--flw351e.com
 .dfham.com
 .dfkhgj.com
 .dginfo.com
+.dgjy.net
 .dgphospital.com
 .dgtle.com
 .dianchacha.com
@@ -1410,6 +1424,7 @@ xn--flw351e.com
 .fanxian.com
 .fastapi.net
 .fastcdn.com
+.fdcyun.com
 .feihuo.com
 .feiliao.com
 .feiniaomy.com
@@ -2388,6 +2403,7 @@ xn--flw351e.com
 .mikecrm.com
 .minapp.com
 .mincdn.com
+.mingyuanyun.com
 .minhangshi.com
 .minitiao.com
 .mipcdn.com
@@ -2462,6 +2478,7 @@ xn--flw351e.com
 .myilibrary.com
 .myip.la
 .myoppo.com
+.mypaas.com
 .myqcloud.com
 .myshow360.net
 .mysiteres.com
@@ -12116,7 +12133,6 @@ xn--flw351e.com
 .apkrj.com
 .apkyx.com
 .apkzu.com
-.aplaybox.com
 .aplum-inc.com
 .aplum.com
 .apluscap.com
@@ -16260,10 +16276,6 @@ xn--flw351e.com
 .ceve-market.org
 .cevsn.com
 .cf-china.info
-.cf-ns.com
-.cf-ns.net
-.cf-ns.site
-.cf-ns.tech
 .cf.com
 .cf69.com
 .cf865.com
@@ -16302,8 +16314,6 @@ xn--flw351e.com
 .cfsino.com
 .cfsl2017.com
 .cftea.com
-.cftest7.com
-.cftest8.com
 .cftong.com
 .cfucn.com
 .cfwaf.com
@@ -18088,13 +18098,7 @@ xn--flw351e.com
 .clouddiffuse.xyz
 .clouddns.vip
 .clouddream.net
-.cloudflare-cn.com
 .cloudflare520.com
-.cloudflarecn.net
-.cloudflareinsights-cn.com
-.cloudflareprod.com
-.cloudflarestaging.com
-.cloudflarestoragegw.com
 .cloudgap.net
 .cloudgfw.com
 .cloudgfw.net
@@ -20930,7 +20934,6 @@ xn--flw351e.com
 .dgjiuqi.com
 .dgjoy.co
 .dgjxmk.com
-.dgjy.net
 .dgjyw.com
 .dglpool.com
 .dgmama.net
@@ -24228,7 +24231,6 @@ xn--flw351e.com
 .fd-trust.com
 .fd597.com
 .fd7c.com
-.fdcyun.com
 .fdczbstatic.com
 .fdddf.com
 .fdeent.org
@@ -40549,7 +40551,6 @@ xn--flw351e.com
 .mingyi.com
 .mingyihui.net
 .mingyuanfund.com
-.mingyuanyun.com
 .mingyueqingfengshe.com
 .mingzhuxiaoshuo.com
 .minhang.cc
@@ -41606,7 +41607,6 @@ xn--flw351e.com
 .myottad.com
 .myouth.net
 .myp2pch.net
-.mypaas.com
 .mypal.wang
 .mypcrun.com
 .mypethome.com

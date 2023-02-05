@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-05 02:10:10
+# UPDATED: 2023-02-06 02:10:20
 # HOST: 174
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 65826
@@ -612,6 +612,7 @@ HOST-SUFFIX,api.crisp.chat,ChinaTest
 HOST-SUFFIX,apigwtencent.com,ChinaTest
 HOST-SUFFIX,apk3.com,ChinaTest
 HOST-SUFFIX,apk8.com,ChinaTest
+HOST-SUFFIX,aplaybox.com,ChinaTest
 HOST-SUFFIX,apollo.auto,ChinaTest
 HOST-SUFFIX,appchina.com,ChinaTest
 HOST-SUFFIX,appeeres.com,ChinaTest
@@ -892,6 +893,12 @@ HOST-SUFFIX,cecdc.com,ChinaTest
 HOST-SUFFIX,cecport.com,ChinaTest
 HOST-SUFFIX,centanet.com,ChinaTest
 HOST-SUFFIX,cerambath.org,ChinaTest
+HOST-SUFFIX,cf-ns.com,ChinaTest
+HOST-SUFFIX,cf-ns.net,ChinaTest
+HOST-SUFFIX,cf-ns.site,ChinaTest
+HOST-SUFFIX,cf-ns.tech,ChinaTest
+HOST-SUFFIX,cftest7.com,ChinaTest
+HOST-SUFFIX,cftest8.com,ChinaTest
 HOST-SUFFIX,cfund108.com,ChinaTest
 HOST-SUFFIX,cfzq.com,ChinaTest
 HOST-SUFFIX,cgws.com,ChinaTest
@@ -1020,6 +1027,12 @@ HOST-SUFFIX,clouddalian.com,ChinaTest
 HOST-SUFFIX,clouddatong.com,ChinaTest
 HOST-SUFFIX,clouddn.com,ChinaTest
 HOST-SUFFIX,clouddongying.com,ChinaTest
+HOST-SUFFIX,cloudflare-cn.com,ChinaTest
+HOST-SUFFIX,cloudflarecn.net,ChinaTest
+HOST-SUFFIX,cloudflareinsights-cn.com,ChinaTest
+HOST-SUFFIX,cloudflareprod.com,ChinaTest
+HOST-SUFFIX,cloudflarestaging.com,ChinaTest
+HOST-SUFFIX,cloudflarestoragegw.com,ChinaTest
 HOST-SUFFIX,cloudfoshan.com,ChinaTest
 HOST-SUFFIX,cloudfront-cn.net,ChinaTest
 HOST-SUFFIX,cloudfuqing.com,ChinaTest
@@ -1237,6 +1250,7 @@ HOST-SUFFIX,dfcfw.com,ChinaTest
 HOST-SUFFIX,dfham.com,ChinaTest
 HOST-SUFFIX,dfkhgj.com,ChinaTest
 HOST-SUFFIX,dginfo.com,ChinaTest
+HOST-SUFFIX,dgjy.net,ChinaTest
 HOST-SUFFIX,dgphospital.com,ChinaTest
 HOST-SUFFIX,dgtle.com,ChinaTest
 HOST-SUFFIX,dianchacha.com,ChinaTest
@@ -1411,6 +1425,7 @@ HOST-SUFFIX,fanli.com,ChinaTest
 HOST-SUFFIX,fanxian.com,ChinaTest
 HOST-SUFFIX,fastapi.net,ChinaTest
 HOST-SUFFIX,fastcdn.com,ChinaTest
+HOST-SUFFIX,fdcyun.com,ChinaTest
 HOST-SUFFIX,feihuo.com,ChinaTest
 HOST-SUFFIX,feiliao.com,ChinaTest
 HOST-SUFFIX,feiniaomy.com,ChinaTest
@@ -2389,6 +2404,7 @@ HOST-SUFFIX,mijisou.com,ChinaTest
 HOST-SUFFIX,mikecrm.com,ChinaTest
 HOST-SUFFIX,minapp.com,ChinaTest
 HOST-SUFFIX,mincdn.com,ChinaTest
+HOST-SUFFIX,mingyuanyun.com,ChinaTest
 HOST-SUFFIX,minhangshi.com,ChinaTest
 HOST-SUFFIX,minitiao.com,ChinaTest
 HOST-SUFFIX,mipcdn.com,ChinaTest
@@ -2463,6 +2479,7 @@ HOST-SUFFIX,myhwclouds.com,ChinaTest
 HOST-SUFFIX,myilibrary.com,ChinaTest
 HOST-SUFFIX,myip.la,ChinaTest
 HOST-SUFFIX,myoppo.com,ChinaTest
+HOST-SUFFIX,mypaas.com,ChinaTest
 HOST-SUFFIX,myqcloud.com,ChinaTest
 HOST-SUFFIX,myshow360.net,ChinaTest
 HOST-SUFFIX,mysiteres.com,ChinaTest
@@ -12117,7 +12134,6 @@ HOST-SUFFIX,apkplug.com,ChinaTest
 HOST-SUFFIX,apkrj.com,ChinaTest
 HOST-SUFFIX,apkyx.com,ChinaTest
 HOST-SUFFIX,apkzu.com,ChinaTest
-HOST-SUFFIX,aplaybox.com,ChinaTest
 HOST-SUFFIX,aplum-inc.com,ChinaTest
 HOST-SUFFIX,aplum.com,ChinaTest
 HOST-SUFFIX,apluscap.com,ChinaTest
@@ -16261,10 +16277,6 @@ HOST-SUFFIX,ceunion.com,ChinaTest
 HOST-SUFFIX,ceve-market.org,ChinaTest
 HOST-SUFFIX,cevsn.com,ChinaTest
 HOST-SUFFIX,cf-china.info,ChinaTest
-HOST-SUFFIX,cf-ns.com,ChinaTest
-HOST-SUFFIX,cf-ns.net,ChinaTest
-HOST-SUFFIX,cf-ns.site,ChinaTest
-HOST-SUFFIX,cf-ns.tech,ChinaTest
 HOST-SUFFIX,cf.com,ChinaTest
 HOST-SUFFIX,cf69.com,ChinaTest
 HOST-SUFFIX,cf865.com,ChinaTest
@@ -16303,8 +16315,6 @@ HOST-SUFFIX,cfpsf.com,ChinaTest
 HOST-SUFFIX,cfsino.com,ChinaTest
 HOST-SUFFIX,cfsl2017.com,ChinaTest
 HOST-SUFFIX,cftea.com,ChinaTest
-HOST-SUFFIX,cftest7.com,ChinaTest
-HOST-SUFFIX,cftest8.com,ChinaTest
 HOST-SUFFIX,cftong.com,ChinaTest
 HOST-SUFFIX,cfucn.com,ChinaTest
 HOST-SUFFIX,cfwaf.com,ChinaTest
@@ -18089,13 +18099,7 @@ HOST-SUFFIX,clouddcs.com,ChinaTest
 HOST-SUFFIX,clouddiffuse.xyz,ChinaTest
 HOST-SUFFIX,clouddns.vip,ChinaTest
 HOST-SUFFIX,clouddream.net,ChinaTest
-HOST-SUFFIX,cloudflare-cn.com,ChinaTest
 HOST-SUFFIX,cloudflare520.com,ChinaTest
-HOST-SUFFIX,cloudflarecn.net,ChinaTest
-HOST-SUFFIX,cloudflareinsights-cn.com,ChinaTest
-HOST-SUFFIX,cloudflareprod.com,ChinaTest
-HOST-SUFFIX,cloudflarestaging.com,ChinaTest
-HOST-SUFFIX,cloudflarestoragegw.com,ChinaTest
 HOST-SUFFIX,cloudgap.net,ChinaTest
 HOST-SUFFIX,cloudgfw.com,ChinaTest
 HOST-SUFFIX,cloudgfw.net,ChinaTest
@@ -20931,7 +20935,6 @@ HOST-SUFFIX,dghqmotor.com,ChinaTest
 HOST-SUFFIX,dgjiuqi.com,ChinaTest
 HOST-SUFFIX,dgjoy.co,ChinaTest
 HOST-SUFFIX,dgjxmk.com,ChinaTest
-HOST-SUFFIX,dgjy.net,ChinaTest
 HOST-SUFFIX,dgjyw.com,ChinaTest
 HOST-SUFFIX,dglpool.com,ChinaTest
 HOST-SUFFIX,dgmama.net,ChinaTest
@@ -24229,7 +24232,6 @@ HOST-SUFFIX,fczx.com,ChinaTest
 HOST-SUFFIX,fd-trust.com,ChinaTest
 HOST-SUFFIX,fd597.com,ChinaTest
 HOST-SUFFIX,fd7c.com,ChinaTest
-HOST-SUFFIX,fdcyun.com,ChinaTest
 HOST-SUFFIX,fdczbstatic.com,ChinaTest
 HOST-SUFFIX,fdddf.com,ChinaTest
 HOST-SUFFIX,fdeent.org,ChinaTest
@@ -40550,7 +40552,6 @@ HOST-SUFFIX,mingyaweb.com,ChinaTest
 HOST-SUFFIX,mingyi.com,ChinaTest
 HOST-SUFFIX,mingyihui.net,ChinaTest
 HOST-SUFFIX,mingyuanfund.com,ChinaTest
-HOST-SUFFIX,mingyuanyun.com,ChinaTest
 HOST-SUFFIX,mingyueqingfengshe.com,ChinaTest
 HOST-SUFFIX,mingzhuxiaoshuo.com,ChinaTest
 HOST-SUFFIX,minhang.cc,ChinaTest
@@ -41607,7 +41608,6 @@ HOST-SUFFIX,myopenwrt.org,ChinaTest
 HOST-SUFFIX,myottad.com,ChinaTest
 HOST-SUFFIX,myouth.net,ChinaTest
 HOST-SUFFIX,myp2pch.net,ChinaTest
-HOST-SUFFIX,mypaas.com,ChinaTest
 HOST-SUFFIX,mypal.wang,ChinaTest
 HOST-SUFFIX,mypcrun.com,ChinaTest
 HOST-SUFFIX,mypethome.com,ChinaTest

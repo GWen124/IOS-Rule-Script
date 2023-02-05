@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-05 02:10:11
+# UPDATED: 2023-02-06 02:10:21
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65826
@@ -611,6 +611,7 @@ DOMAIN-SUFFIX,api.crisp.chat
 DOMAIN-SUFFIX,apigwtencent.com
 DOMAIN-SUFFIX,apk3.com
 DOMAIN-SUFFIX,apk8.com
+DOMAIN-SUFFIX,aplaybox.com
 DOMAIN-SUFFIX,apollo.auto
 DOMAIN-SUFFIX,appchina.com
 DOMAIN-SUFFIX,appeeres.com
@@ -891,6 +892,12 @@ DOMAIN-SUFFIX,cecdc.com
 DOMAIN-SUFFIX,cecport.com
 DOMAIN-SUFFIX,centanet.com
 DOMAIN-SUFFIX,cerambath.org
+DOMAIN-SUFFIX,cf-ns.com
+DOMAIN-SUFFIX,cf-ns.net
+DOMAIN-SUFFIX,cf-ns.site
+DOMAIN-SUFFIX,cf-ns.tech
+DOMAIN-SUFFIX,cftest7.com
+DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cfund108.com
 DOMAIN-SUFFIX,cfzq.com
 DOMAIN-SUFFIX,cgws.com
@@ -1019,6 +1026,12 @@ DOMAIN-SUFFIX,clouddalian.com
 DOMAIN-SUFFIX,clouddatong.com
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,clouddongying.com
+DOMAIN-SUFFIX,cloudflare-cn.com
+DOMAIN-SUFFIX,cloudflarecn.net
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareprod.com
+DOMAIN-SUFFIX,cloudflarestaging.com
+DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cloudfoshan.com
 DOMAIN-SUFFIX,cloudfront-cn.net
 DOMAIN-SUFFIX,cloudfuqing.com
@@ -1236,6 +1249,7 @@ DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dfham.com
 DOMAIN-SUFFIX,dfkhgj.com
 DOMAIN-SUFFIX,dginfo.com
+DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,dgphospital.com
 DOMAIN-SUFFIX,dgtle.com
 DOMAIN-SUFFIX,dianchacha.com
@@ -1410,6 +1424,7 @@ DOMAIN-SUFFIX,fanli.com
 DOMAIN-SUFFIX,fanxian.com
 DOMAIN-SUFFIX,fastapi.net
 DOMAIN-SUFFIX,fastcdn.com
+DOMAIN-SUFFIX,fdcyun.com
 DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,feiniaomy.com
@@ -2388,6 +2403,7 @@ DOMAIN-SUFFIX,mijisou.com
 DOMAIN-SUFFIX,mikecrm.com
 DOMAIN-SUFFIX,minapp.com
 DOMAIN-SUFFIX,mincdn.com
+DOMAIN-SUFFIX,mingyuanyun.com
 DOMAIN-SUFFIX,minhangshi.com
 DOMAIN-SUFFIX,minitiao.com
 DOMAIN-SUFFIX,mipcdn.com
@@ -2462,6 +2478,7 @@ DOMAIN-SUFFIX,myhwclouds.com
 DOMAIN-SUFFIX,myilibrary.com
 DOMAIN-SUFFIX,myip.la
 DOMAIN-SUFFIX,myoppo.com
+DOMAIN-SUFFIX,mypaas.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myshow360.net
 DOMAIN-SUFFIX,mysiteres.com
@@ -12116,7 +12133,6 @@ DOMAIN-SUFFIX,apkplug.com
 DOMAIN-SUFFIX,apkrj.com
 DOMAIN-SUFFIX,apkyx.com
 DOMAIN-SUFFIX,apkzu.com
-DOMAIN-SUFFIX,aplaybox.com
 DOMAIN-SUFFIX,aplum-inc.com
 DOMAIN-SUFFIX,aplum.com
 DOMAIN-SUFFIX,apluscap.com
@@ -16260,10 +16276,6 @@ DOMAIN-SUFFIX,ceunion.com
 DOMAIN-SUFFIX,ceve-market.org
 DOMAIN-SUFFIX,cevsn.com
 DOMAIN-SUFFIX,cf-china.info
-DOMAIN-SUFFIX,cf-ns.com
-DOMAIN-SUFFIX,cf-ns.net
-DOMAIN-SUFFIX,cf-ns.site
-DOMAIN-SUFFIX,cf-ns.tech
 DOMAIN-SUFFIX,cf.com
 DOMAIN-SUFFIX,cf69.com
 DOMAIN-SUFFIX,cf865.com
@@ -16302,8 +16314,6 @@ DOMAIN-SUFFIX,cfpsf.com
 DOMAIN-SUFFIX,cfsino.com
 DOMAIN-SUFFIX,cfsl2017.com
 DOMAIN-SUFFIX,cftea.com
-DOMAIN-SUFFIX,cftest7.com
-DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cftong.com
 DOMAIN-SUFFIX,cfucn.com
 DOMAIN-SUFFIX,cfwaf.com
@@ -18088,13 +18098,7 @@ DOMAIN-SUFFIX,clouddcs.com
 DOMAIN-SUFFIX,clouddiffuse.xyz
 DOMAIN-SUFFIX,clouddns.vip
 DOMAIN-SUFFIX,clouddream.net
-DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,cloudflare520.com
-DOMAIN-SUFFIX,cloudflarecn.net
-DOMAIN-SUFFIX,cloudflareinsights-cn.com
-DOMAIN-SUFFIX,cloudflareprod.com
-DOMAIN-SUFFIX,cloudflarestaging.com
-DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cloudgap.net
 DOMAIN-SUFFIX,cloudgfw.com
 DOMAIN-SUFFIX,cloudgfw.net
@@ -20930,7 +20934,6 @@ DOMAIN-SUFFIX,dghqmotor.com
 DOMAIN-SUFFIX,dgjiuqi.com
 DOMAIN-SUFFIX,dgjoy.co
 DOMAIN-SUFFIX,dgjxmk.com
-DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,dgjyw.com
 DOMAIN-SUFFIX,dglpool.com
 DOMAIN-SUFFIX,dgmama.net
@@ -24228,7 +24231,6 @@ DOMAIN-SUFFIX,fczx.com
 DOMAIN-SUFFIX,fd-trust.com
 DOMAIN-SUFFIX,fd597.com
 DOMAIN-SUFFIX,fd7c.com
-DOMAIN-SUFFIX,fdcyun.com
 DOMAIN-SUFFIX,fdczbstatic.com
 DOMAIN-SUFFIX,fdddf.com
 DOMAIN-SUFFIX,fdeent.org
@@ -40549,7 +40551,6 @@ DOMAIN-SUFFIX,mingyaweb.com
 DOMAIN-SUFFIX,mingyi.com
 DOMAIN-SUFFIX,mingyihui.net
 DOMAIN-SUFFIX,mingyuanfund.com
-DOMAIN-SUFFIX,mingyuanyun.com
 DOMAIN-SUFFIX,mingyueqingfengshe.com
 DOMAIN-SUFFIX,mingzhuxiaoshuo.com
 DOMAIN-SUFFIX,minhang.cc
@@ -41606,7 +41607,6 @@ DOMAIN-SUFFIX,myopenwrt.org
 DOMAIN-SUFFIX,myottad.com
 DOMAIN-SUFFIX,myouth.net
 DOMAIN-SUFFIX,myp2pch.net
-DOMAIN-SUFFIX,mypaas.com
 DOMAIN-SUFFIX,mypal.wang
 DOMAIN-SUFFIX,mypcrun.com
 DOMAIN-SUFFIX,mypethome.com
