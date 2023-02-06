@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-06 02:07:08
+# UPDATED: 2023-02-07 02:07:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 14665
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 78516
+# DOMAIN-SUFFIX: 78542
 # IP-CIDR: 238
 # URL-REGEX: 285
-# TOTAL: 93781
+# TOTAL: 93807
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -23035,6 +23035,7 @@ zzxosget.com
 .adspyglass.com
 .adspynet.com
 .adsqqclick.qq.com
+.adsquirrel.ai
 .adsrevenue.net
 .adsrich.qq.com
 .adsring.com
@@ -24271,6 +24272,7 @@ zzxosget.com
 .aiseet.aa.atianqi.com
 .aiseet.atianqi.com
 .aishake.cn
+.aishan.shop
 .aishang.bid
 .aishangcan.com
 .aishiguolong.com
@@ -27003,6 +27005,7 @@ zzxosget.com
 .ast2ya4ee8wtnax.com
 .astaicheedie.com
 .astancerta.fun
+.astandhei.com
 .astarboka.com
 .astat.nikkei.co.jp
 .astat.nikkei.com
@@ -30547,6 +30550,7 @@ zzxosget.com
 .bp5hq5jivj.ru
 .bp776.com
 .bpath.com
+.bpbpxv.xyz
 .bpdffh.cn
 .bpe.mlb.com
 .bpe2.destinia.co.il
@@ -32248,7 +32252,6 @@ zzxosget.com
 .cdn.ads.jlscds.com
 .cdn.adservingsolutionsinc.com
 .cdn.adsk2.co
-.cdn.adsquirrel.ai
 .cdn.adstract.com
 .cdn.adt356.com
 .cdn.adt357.net
@@ -32895,6 +32898,7 @@ zzxosget.com
 .cheumy.com
 .chevalierusa.actonservice.com
 .chevetoelike.com
+.chevisefancy.com
 .chevlaga.ru
 .chewcoat.com
 .chewsrompedhemp.com
@@ -33685,6 +33689,7 @@ zzxosget.com
 .clickterra.net
 .clickthru.lefbc.com
 .clickthru.net
+.clickthruhost.com
 .clickthruserver.com
 .clickthrutraffic.com
 .clicktoclick.ru
@@ -44970,6 +44975,7 @@ zzxosget.com
 .galacticmenueasier.com
 .galaks.io
 .galampgab.com
+.galanasorra.com
 .galaxiemedia.fr
 .galaxien.com
 .galaxy.sogoucdn.com
@@ -49465,6 +49471,7 @@ zzxosget.com
 .iberacon.com
 .ibexcacaoboy.com
 .ibgdd67.top
+.ibgksw.xyz
 .ibhxmxuwb.xyz
 .ibikini.cyou
 .ibillboard.com
@@ -51841,6 +51848,7 @@ zzxosget.com
 .jellyclick.com
 .jellyfish.pandora.xiaomi.com
 .jelr1.dili.fr
+.jeltoocm.xyz
 .jelulymy.pro
 .jemock.com
 .jemonews.com
@@ -55565,6 +55573,7 @@ zzxosget.com
 .lkqd.com
 .lkqd.net
 .lksdj.com
+.lktmgvw.cn
 .lktxelg.cn
 .lkvyfnuaten.com
 .ll.a.hulu.com
@@ -66060,6 +66069,7 @@ zzxosget.com
 .pizzaparty.cn
 .pizzasnut.com
 .pizzazz.lol
+.pj0z5.cn
 .pj3456.com
 .pj39330.com
 .pj50.com
@@ -68197,6 +68207,7 @@ zzxosget.com
 .pxlgnpgecom-a.akamaihd.net
 .pxmzlk.redfin.com
 .pxpfnbe1t1.com
+.pxrs6.cn
 .pxsg.pandora.com
 .pxx.tnklrs.cn
 .pxyvb.cn
@@ -68227,6 +68238,7 @@ zzxosget.com
 .pythoncareens.tech
 .pyvqoaoeeen.com
 .pyxidiaimmerit.com
+.pyxiscablese.com
 .pyxjwks.com
 .pyyhkn.com
 .pyzkk.com
@@ -68410,6 +68422,7 @@ zzxosget.com
 .qeeapklqmq.com
 .qel-qel-fie.com
 .qeptzff.cn
+.qerbert78.xyz
 .qertewrt.com
 .qerusgreyt.com
 .qevcxo.cn
@@ -68522,6 +68535,7 @@ zzxosget.com
 .qingtian.love
 .qingzhencai.net
 .qinhang.pro
+.qinkuai.top
 .qinlingshui.com
 .qinlinquan.cn
 .qinlu.ink
@@ -68578,6 +68592,7 @@ zzxosget.com
 .qlaot.com
 .qldua.cn
 .qlfqkjluvz.com
+.qliiom.xyz
 .qlisv.siemens6es7.com
 .qlitics.com
 .qlldvi.motoscout24.ch
@@ -72089,6 +72104,7 @@ zzxosget.com
 .sansaramedulla.website
 .santanderbank.fr
 .santonpardal.com
+.santou20230127.live
 .santrateduk.site
 .sanya1.com
 .saouknatst.com
@@ -73718,6 +73734,7 @@ zzxosget.com
 .shexawhy.net
 .shffcy.cn
 .shglegle.com
+.shguy.cyou
 .shhaiya.com
 .shhcc.top
 .shibagongfang.com
@@ -74092,6 +74109,7 @@ zzxosget.com
 .simajl.top
 .simba.6.cn
 .simba.m.taobao.com
+.simeonolympia.com
 .simg.bwin.com
 .simg.gamebookers.com
 .simi1234.com
@@ -80853,6 +80871,7 @@ zzxosget.com
 .thoughtthricecompress.com
 .thoupsou.net
 .thousandfixedlyyawn.com
+.thpte.cn
 .thqjrh.elly.vn
 .thraerqol.com
 .thrate.com
@@ -83052,6 +83071,7 @@ zzxosget.com
 .tracking.experiencescottsdale.com
 .tracking.fado.vn
 .tracking.fanbridge.com
+.tracking.fasab6f.se
 .tracking.fff.com.vn
 .tracking.finanzen.net
 .tracking.fkk24.de
@@ -84421,6 +84441,7 @@ zzxosget.com
 .u5e.com
 .u5fsqf.com
 .u5ree6.com
+.u644.fun
 .u652.myplainview.com
 .u756fvjp.cn
 .u7kgr54jr7.ru
@@ -85623,6 +85644,7 @@ zzxosget.com
 .uwoaptee.com
 .uwogldt.top
 .uwsxz.com
+.uwumr.cn
 .uwuzpxt.cn
 .uwwaml.com
 .uwy4.aegon.es
@@ -86718,6 +86740,7 @@ zzxosget.com
 .voipnewswire.net
 .voipwise.fr
 .voivoderageful.website
+.vokmhydy.xyz
 .volantix.com
 .volatintptr.com
 .volcanoimplement.com
@@ -86883,6 +86906,7 @@ zzxosget.com
 .vstat.borderlessbd.com
 .vstats.co
 .vstats.digitaltrends.com
+.vstats.me
 .vstvstsa.com
 .vstvstsaq.com
 .vstvstssa.com
@@ -91083,6 +91107,7 @@ zzxosget.com
 .yaiser.com
 .yajiuwz.xyz
 .yajlpetccbodq.com
+.yakmakutopia.com
 .yallarec.com
 .yallboen.com
 .yalongrope.cn
@@ -92214,6 +92239,7 @@ zzxosget.com
 .zaihu99.ltd
 .zaivikuk.com
 .zaixianweiyuanchuang.cn
+.zakaheggment.com
 .zakladka.org.ua
 .zalanado.fr
 .zalandon.fr

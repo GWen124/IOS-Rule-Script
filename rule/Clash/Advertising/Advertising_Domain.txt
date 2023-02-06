@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-06 02:07:10
+# UPDATED: 2023-02-07 02:07:40
 # DOMAIN: 14665
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 78516
+# DOMAIN-SUFFIX: 78542
 # IP-CIDR: 238
-# TOTAL: 93495
+# TOTAL: 93521
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -19365,6 +19365,7 @@ opencloud.wostore.cn
 .adspruce.com
 .adspyglass.com
 .adspynet.com
+.adsquirrel.ai
 .adsrevenue.net
 .adsring.com
 .adsroller.com
@@ -20348,6 +20349,7 @@ opencloud.wostore.cn
 .airydeservesannounce.com
 .aisastore.club
 .aisdd.xyz
+.aishan.shop
 .aissoksu.net
 .aistat.net
 .aistgsgxvsrywhf.com
@@ -22059,6 +22061,7 @@ opencloud.wostore.cn
 .ast2ya4ee8wtnax.com
 .astaicheedie.com
 .astancerta.fun
+.astandhei.com
 .astarboka.com
 .astat.nikkei.co.jp
 .astaticglib.com
@@ -24724,6 +24727,7 @@ opencloud.wostore.cn
 .bp01.net
 .bp5hq5jivj.ru
 .bpath.com
+.bpbpxv.xyz
 .bpioqb.com
 .bpkbqp.com
 .bplnskyetroo.xyz
@@ -25919,7 +25923,6 @@ opencloud.wostore.cn
 .cdn.adfenix.com
 .cdn.ads.fotoable.net
 .cdn.adservingsolutionsinc.com
-.cdn.adsquirrel.ai
 .cdn.adt356.com
 .cdn.adt357.net
 .cdn.adt361.com
@@ -26403,6 +26406,7 @@ opencloud.wostore.cn
 .chethgentman.live
 .cheumy.com
 .chevetoelike.com
+.chevisefancy.com
 .chevlaga.ru
 .chewsrompedhemp.com
 .cheynewalk.com
@@ -26949,6 +26953,7 @@ opencloud.wostore.cn
 .clickterra.net
 .clickthru.lefbc.com
 .clickthru.net
+.clickthruhost.com
 .clickthruserver.com
 .clickthrutraffic.com
 .clicktoclick.ru
@@ -34395,6 +34400,7 @@ opencloud.wostore.cn
 .galacticmenueasier.com
 .galaks.io
 .galampgab.com
+.galanasorra.com
 .galaxiemedia.fr
 .galaxien.com
 .galaxymeet.ru
@@ -37544,6 +37550,7 @@ opencloud.wostore.cn
 .iberacon.com
 .ibexcacaoboy.com
 .ibgdd67.top
+.ibgksw.xyz
 .ibhxmxuwb.xyz
 .ibikini.cyou
 .ibillboard.com
@@ -39114,6 +39121,7 @@ opencloud.wostore.cn
 .jelfmtsr5i.ru
 .jellifytayer.com
 .jellyclick.com
+.jeltoocm.xyz
 .jelulymy.pro
 .jemock.com
 .jemonews.com
@@ -41692,6 +41700,7 @@ opencloud.wostore.cn
 .lkqd.com
 .lkqd.net
 .lksdj.com
+.lktmgvw.cn
 .lktxelg.cn
 .lkvyfnuaten.com
 .ll.k743.com
@@ -48725,6 +48734,7 @@ opencloud.wostore.cn
 .pizasoji.com
 .pizzaparty.cn
 .pizzazz.lol
+.pj0z5.cn
 .pjatr.com
 .pjcdjtn.cn
 .pjewriw.top
@@ -50334,6 +50344,7 @@ opencloud.wostore.cn
 .pxlctl.elpais.com
 .pxlgnpgecom-a.akamaihd.net
 .pxpfnbe1t1.com
+.pxrs6.cn
 .pxx.tnklrs.cn
 .pyblogs.xyz
 .pycizury.pro
@@ -50356,6 +50367,7 @@ opencloud.wostore.cn
 .pythoncareens.tech
 .pyvqoaoeeen.com
 .pyxidiaimmerit.com
+.pyxiscablese.com
 .pyxjwks.com
 .pyyhkn.com
 .pyzx.xyz
@@ -50471,6 +50483,7 @@ opencloud.wostore.cn
 .qeeapklqmq.com
 .qel-qel-fie.com
 .qeptzff.cn
+.qerbert78.xyz
 .qertewrt.com
 .qerusgreyt.com
 .qevia.doubleclick.bond
@@ -50544,6 +50557,7 @@ opencloud.wostore.cn
 .qingshu.live
 .qingtian.love
 .qinhang.pro
+.qinkuai.top
 .qinlingshui.com
 .qinlu.ink
 .qinongyouxuan.cn
@@ -50579,6 +50593,7 @@ opencloud.wostore.cn
 .ql.tc
 .ql.uzuzuz.com
 .qlfqkjluvz.com
+.qliiom.xyz
 .qlitics.com
 .qlnomb.com
 .qload.ru
@@ -52969,6 +52984,7 @@ opencloud.wostore.cn
 .sansaramedulla.website
 .santanderbank.fr
 .santonpardal.com
+.santou20230127.live
 .saouknatst.com
 .sapere.seed4.me
 .sapha.com
@@ -53893,6 +53909,7 @@ opencloud.wostore.cn
 .shesubscriptions.com
 .shevrinavis.website
 .shexawhy.net
+.shguy.cyou
 .shhaiya.com
 .shhcc.top
 .shichihukuudon.com
@@ -54160,6 +54177,7 @@ opencloud.wostore.cn
 .silverpush.co
 .silverundergofold.com
 .simajl.top
+.simeonolympia.com
 .simi1234.com
 .simi2345.com
 .simi345.me
@@ -57456,6 +57474,7 @@ opencloud.wostore.cn
 .thoughtthricecompress.com
 .thoupsou.net
 .thousandfixedlyyawn.com
+.thpte.cn
 .thraerqol.com
 .thrate.com
 .thraxgawks.guru
@@ -58457,6 +58476,7 @@ opencloud.wostore.cn
 .tracking.epicgames.com
 .tracking.exipure.com
 .tracking.fado.vn
+.tracking.fasab6f.se
 .tracking.fff.com.vn
 .tracking.foxnews.com
 .tracking.fsjmp.com
@@ -59415,6 +59435,7 @@ opencloud.wostore.cn
 .u5e.com
 .u5fsqf.com
 .u5ree6.com
+.u644.fun
 .u756fvjp.cn
 .u7kgr54jr7.ru
 .u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
@@ -60243,6 +60264,7 @@ opencloud.wostore.cn
 .uwoaptee.com
 .uwogldt.top
 .uwsxz.com
+.uwumr.cn
 .uwuzpxt.cn
 .uwwaml.com
 .uxdwhatijun.xyz
@@ -61114,6 +61136,7 @@ opencloud.wostore.cn
 .voipnewswire.net
 .voipwise.fr
 .voivoderageful.website
+.vokmhydy.xyz
 .volantix.com
 .volatintptr.com
 .volcanoimplement.com
@@ -61238,6 +61261,7 @@ opencloud.wostore.cn
 .vsmokhklbw.com
 .vsmyhky.cn
 .vstats.co
+.vstats.me
 .vstvstsa.com
 .vstvstsaq.com
 .vstvstssa.com
@@ -63938,6 +63962,7 @@ opencloud.wostore.cn
 .yahuu.org
 .yaiser.com
 .yajlpetccbodq.com
+.yakmakutopia.com
 .yallarec.com
 .yamanoha.com
 .yampopa.ru
@@ -64682,6 +64707,7 @@ opencloud.wostore.cn
 .zaiaplb.cn
 .zaihu99.ltd
 .zaixianweiyuanchuang.cn
+.zakaheggment.com
 .zakladka.org.ua
 .zalanado.fr
 .zalandon.fr

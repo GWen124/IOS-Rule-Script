@@ -1,11 +1,11 @@
 # NAME: ChinaIPsTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-06 02:11:34
+# UPDATED: 2023-02-07 02:13:46
 # IP-ASN: 932
 # IP-CIDR: 5221
-# IP-CIDR6: 5119
-# TOTAL: 11272
+# IP-CIDR6: 5111
+# TOTAL: 11264
 IP-ASN,10111
 IP-ASN,10206
 IP-ASN,10212
