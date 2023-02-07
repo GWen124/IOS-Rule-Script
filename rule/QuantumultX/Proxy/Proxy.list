@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-02 14:50:48
+# UPDATED: 2023-02-08 02:10:22
 # HOST: 10
 # HOST-KEYWORD: 31
-# HOST-SUFFIX: 25467
+# HOST-SUFFIX: 25466
 # IP-CIDR: 88
 # IP6-CIDR: 3
 # USER-AGENT: 8
-# TOTAL: 25607
+# TOTAL: 25606
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -18167,7 +18167,6 @@ HOST-SUFFIX,trubadis.com,Proxy
 HOST-SUFFIX,trudireaume.com,Proxy
 HOST-SUFFIX,truebuddha-md.org,Proxy
 HOST-SUFFIX,trulyergonomic.com,Proxy
-HOST-SUFFIX,trust.zone,Proxy
 HOST-SUFFIX,trustasiassl.com,Proxy
 HOST-SUFFIX,trustedreviews.com,Proxy
 HOST-SUFFIX,truth-out.org,Proxy

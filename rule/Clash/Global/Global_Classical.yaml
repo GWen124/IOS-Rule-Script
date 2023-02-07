@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-02 14:50:13
+# UPDATED: 2023-02-08 02:09:52
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 37756
@@ -11856,6 +11856,7 @@ payload:
   - DOMAIN-SUFFIX,truefi.io
   - DOMAIN-SUFFIX,trust-provider.cn
   - DOMAIN-SUFFIX,trust-provider.com
+  - DOMAIN-SUFFIX,trust.zone
   - DOMAIN-SUFFIX,trustcenter.cn
   - DOMAIN-SUFFIX,trustcor.com
   - DOMAIN-SUFFIX,trustdoc.ch
@@ -30908,7 +30909,6 @@ payload:
   - DOMAIN-SUFFIX,trudireaume.com
   - DOMAIN-SUFFIX,truebuddha-md.org
   - DOMAIN-SUFFIX,trulyergonomic.com
-  - DOMAIN-SUFFIX,trust.zone
   - DOMAIN-SUFFIX,trustasiassl.com
   - DOMAIN-SUFFIX,trustedreviews.com
   - DOMAIN-SUFFIX,truth-out.org

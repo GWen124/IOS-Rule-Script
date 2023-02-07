@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-06 02:10:01
+# UPDATED: 2023-02-08 02:10:17
 # HOST: 392
 # HOST-KEYWORD: 39
 # HOST-SUFFIX: 38079
@@ -11736,6 +11736,7 @@ HOST-SUFFIX,truedepth3d.com,Global
 HOST-SUFFIX,truefi.io,Global
 HOST-SUFFIX,trust-provider.cn,Global
 HOST-SUFFIX,trust-provider.com,Global
+HOST-SUFFIX,trust.zone,Global
 HOST-SUFFIX,trustcenter.cn,Global
 HOST-SUFFIX,trustcor.com,Global
 HOST-SUFFIX,trustdoc.ch,Global
@@ -31312,7 +31313,6 @@ HOST-SUFFIX,trubadis.com,Global
 HOST-SUFFIX,trudireaume.com,Global
 HOST-SUFFIX,truebuddha-md.org,Global
 HOST-SUFFIX,trulyergonomic.com,Global
-HOST-SUFFIX,trust.zone,Global
 HOST-SUFFIX,trustasiassl.com,Global
 HOST-SUFFIX,trustedreviews.com,Global
 HOST-SUFFIX,truth-out.org,Global
