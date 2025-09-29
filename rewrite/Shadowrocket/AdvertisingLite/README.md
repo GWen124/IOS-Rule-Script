@@ -20,14 +20,24 @@ AdvertisingLite 不直接抽取数据源中MITM的hostname，仅用正则推导�
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:54:10
+=======
+最后更新时间：2025-07-28 02:12:29
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | REJECT | 495  | 
 | MITM | 407  | 
 | TOTAL | 902  | 
+=======
+| REJECT | 1229  | 
+| MITM | 902  | 
+| TOTAL | 2131  | 
+>>>>>>> upstream/master
 
 
 ## Shadowrocket 
@@ -67,17 +77,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《复写去广告(严格版)》的数据来自以下链接，如与本项目的《复写去广告(严格版)》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Shortcuts/reject.txt
-- https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Rewrite/githubacct001.conf
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
 
 

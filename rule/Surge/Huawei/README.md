@@ -12,13 +12,17 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:21
+=======
+最后更新时间：2025-07-30 02:08:53
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 159  | 
-| TOTAL | 159  | 
+| DOMAIN-SUFFIX | 160  | 
+| TOTAL | 160  | 
 
 
 ## Surge 
@@ -65,6 +69,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HuaWei.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuaWei.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/HuaWei.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

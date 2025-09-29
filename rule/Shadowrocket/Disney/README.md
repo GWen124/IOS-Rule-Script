@@ -12,14 +12,18 @@ Disney规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:50:51
+=======
+最后更新时间：2025-07-30 02:08:19
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 168  | 
+| DOMAIN-SUFFIX | 172  | 
 | USER-AGENT | 1  | 
-| TOTAL | 169  | 
+| TOTAL | 173  | 
 
 
 ## Shadowrocket 
@@ -64,8 +68,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Disney》的数据来自以下链接，如与本项目的《Disney》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/DisneyPlus.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Disney.list
 
 

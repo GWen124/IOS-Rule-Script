@@ -15,15 +15,18 @@ Clubhouse规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:38
+=======
+最后更新时间：2025-06-06 09:17:41
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 2  | 
 | HOST-SUFFIX | 3  | 
-| IP-CIDR | 9  | 
-| TOTAL | 14  | 
+| TOTAL | 5  | 
 
 
 ## QuantumultX 
@@ -65,9 +68,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Clubhouse》的数据来自以下链接，如与本项目的《Clubhouse》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list
-- https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Ruleset/Loon/Clubhouse.list
-- https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Ruleset/Quantumult%20X/Clubhouse.list
 - https://raw.githubusercontent.com/tengyuankoo/qx/main/Clubhouse.list
 
 

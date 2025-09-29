@@ -1,9 +1,17 @@
 # NAME: Scholar
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:50:53
 # DOMAIN-SUFFIX: 220
 # TOTAL: 220
+=======
+# UPDATED: 2025-06-06 09:16:56
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 229
+# TOTAL: 230
+DOMAIN,scholar.google.com
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.domains
 DOMAIN-SUFFIX,1lib.education
@@ -65,6 +73,7 @@ DOMAIN-SUFFIX,cas.org
 DOMAIN-SUFFIX,cell.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,computer.org
 DOMAIN-SUFFIX,computingreviews.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,crossref.org
@@ -90,12 +99,15 @@ DOMAIN-SUFFIX,evise.com
 DOMAIN-SUFFIX,frontiersin.org
 DOMAIN-SUFFIX,gale.com
 DOMAIN-SUFFIX,galegroup.com
+DOMAIN-SUFFIX,geoscienceworld.org
 DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,hindawi.com
 DOMAIN-SUFFIX,hk1lib.org
 DOMAIN-SUFFIX,ic.ac.uk
 DOMAIN-SUFFIX,icevirtuallibrary.com
 DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieeecomputer.org
+DOMAIN-SUFFIX,ieeecomputersociety.org
 DOMAIN-SUFFIX,imf.org
 DOMAIN-SUFFIX,imperial.ac.uk
 DOMAIN-SUFFIX,imperial.insendi.com
@@ -120,6 +132,7 @@ DOMAIN-SUFFIX,libguides.com
 DOMAIN-SUFFIX,libsolutions.app
 DOMAIN-SUFFIX,libsolutions.domains
 DOMAIN-SUFFIX,libsolutions.net
+DOMAIN-SUFFIX,liebertpub.com
 DOMAIN-SUFFIX,literatumonline.com
 DOMAIN-SUFFIX,ma1lib.org
 DOMAIN-SUFFIX,madsrevolution.net
@@ -201,6 +214,7 @@ DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,taylorandfrancis.com
 DOMAIN-SUFFIX,taylorfrancis.com
 DOMAIN-SUFFIX,thelancet.com
+DOMAIN-SUFFIX,turnitin.com
 DOMAIN-SUFFIX,uchicago.edu
 DOMAIN-SUFFIX,ucla.edu
 DOMAIN-SUFFIX,ukwhoswho.com
@@ -208,8 +222,11 @@ DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,uni-bielefeld.de
 DOMAIN-SUFFIX,universitypressscholarship.com
+DOMAIN-SUFFIX,uq.edu.au
+DOMAIN-SUFFIX,uq.h5p.com
 DOMAIN-SUFFIX,veryshortintroductions.com
 DOMAIN-SUFFIX,wanfangdata.com
+DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,westlaw.com

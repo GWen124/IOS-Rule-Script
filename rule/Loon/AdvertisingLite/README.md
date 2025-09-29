@@ -15,17 +15,22 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:46:41
+=======
+最后更新时间：2025-08-12 02:03:40
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 23678  | 
-| DOMAIN-KEYWORD | 27  | 
-| DOMAIN-SUFFIX | 13527  | 
-| IP-CIDR | 184  | 
-| URL-REGEX | 279  | 
-| TOTAL | 37695  | 
+| DOMAIN | 23753  | 
+| DOMAIN-KEYWORD | 187  | 
+| DOMAIN-SUFFIX | 13942  | 
+| IP-CIDR | 186  | 
+| IP-CIDR6 | 1  | 
+| URL-REGEX | 2  | 
+| TOTAL | 38071  | 
 
 
 ## Loon 
@@ -82,10 +87,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule

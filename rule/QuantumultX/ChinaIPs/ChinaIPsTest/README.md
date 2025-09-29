@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-生成纯IPv4规则-89ed5d) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-生成纯IPv4规则-89ed5d) 
 
 ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -19,15 +19,25 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-08 02:11:57
+=======
+最后更新时间：2025-09-28 02:10:05
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | IP-ASN | 932  | 
 | IP-CIDR | 5221  | 
 | IP6-CIDR | 5132  | 
 | TOTAL | 11285  | 
+=======
+| IP-CIDR | 18334  | 
+| IP6-CIDR | 12307  | 
+| TOTAL | 30641  | 
+>>>>>>> upstream/master
 
 
 ## QuantumultX 
@@ -73,13 +83,29 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《ChinaIPsTest》的数据来自以下链接，如与本项目的《ChinaIPsTest》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic%20IPs.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
 - https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list
 - https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/chinanet6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/chinanet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
+- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic%20IPs.yaml
+- https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

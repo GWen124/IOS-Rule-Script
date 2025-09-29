@@ -12,13 +12,17 @@ Developer规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:50:52
+=======
+最后更新时间：2025-06-06 09:16:56
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 65  | 
-| TOTAL | 65  | 
+| HOST-SUFFIX | 70  | 
+| TOTAL | 70  | 
 
 
 ## QuantumultX 
@@ -65,6 +69,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Developer.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Developer/Developer.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleDev.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Developer.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

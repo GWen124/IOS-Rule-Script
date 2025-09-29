@@ -12,14 +12,18 @@ iCloud规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:48:17
+=======
+最后更新时间：2025-06-06 09:15:11
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 57  | 
-| TOTAL | 58  | 
+| DOMAIN-SUFFIX | 58  | 
+| TOTAL | 59  | 
 
 
 ## Loon 
@@ -61,9 +65,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《iCloud》的数据来自以下链接，如与本项目的《iCloud》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/iCloud.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/iCloud.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt
 
 

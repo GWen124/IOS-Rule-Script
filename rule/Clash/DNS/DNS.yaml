@@ -1,21 +1,25 @@
 # NAME: DNS
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:53:00
 # DOMAIN: 84
 # IP-CIDR: 22
 # TOTAL: 106
+=======
+# UPDATED: 2025-06-06 09:18:50
+# DOMAIN: 93
+# IP-CIDR: 26
+# TOTAL: 119
+>>>>>>> upstream/master
 payload:
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN,8888.google
   - DOMAIN,adblock.mydns.network
   - DOMAIN,applied-privacy.net
-  - DOMAIN,captnemo.in
   - DOMAIN,cdn-doh.ssnm.xyz
   - DOMAIN,chrome.cloudflare-dns.com
   - DOMAIN,cloudflare-dns.com
-  - DOMAIN,commons.host
-  - DOMAIN,digitale-gesellschaft.ch
   - DOMAIN,dns-family.adguard.com
   - DOMAIN,dns-nyc.aaflalo.me
   - DOMAIN,dns-tls.qis.io
@@ -33,6 +37,7 @@ payload:
   - DOMAIN,dns.google
   - DOMAIN,dns.google.com
   - DOMAIN,dns.hostux.net
+  - DOMAIN,dns.ipv6dns.com
   - DOMAIN,dns.keweon.center
   - DOMAIN,dns.nextdns.io
   - DOMAIN,dns.quad9.net
@@ -46,6 +51,7 @@ payload:
   - DOMAIN,doh-de.blahdns.com
   - DOMAIN,doh-fi.blahdns.com
   - DOMAIN,doh-jp.blahdns.com
+  - DOMAIN,doh-pure.onedns.net
   - DOMAIN,doh.42l.fr
   - DOMAIN,doh.armadillodns.net
   - DOMAIN,doh.centraleu.pi-dns.com
@@ -58,11 +64,15 @@ payload:
   - DOMAIN,doh.ffmuc.net
   - DOMAIN,doh.li
   - DOMAIN,doh.libredns.gr
+  - DOMAIN,doh.mullvad.net
   - DOMAIN,doh.northeu.pi-dns.com
+  - DOMAIN,doh.onedns.net
   - DOMAIN,doh.opendns.com
+  - DOMAIN,doh.powerdns.com
   - DOMAIN,doh.powerdns.org
   - DOMAIN,doh.pub
   - DOMAIN,doh.qis.io
+  - DOMAIN,doh.sb
   - DOMAIN,doh.seby.io
   - DOMAIN,doh.securedns.eu
   - DOMAIN,doh.tiar.app
@@ -70,6 +80,8 @@ payload:
   - DOMAIN,doh.westus.pi-dns.com
   - DOMAIN,doh.xfinity.com
   - DOMAIN,dohdot.coxlab.net
+  - DOMAIN,dot-pure.onedns.net
+  - DOMAIN,dot.onedns.net
   - DOMAIN,edns.233py.com
   - DOMAIN,example.doh.blockerdns.com
   - DOMAIN,family.canadianshield.cira.ca
@@ -83,16 +95,23 @@ payload:
   - DOMAIN,mozilla.cloudflare-dns.com
   - DOMAIN,odvr.nic.cz
   - DOMAIN,one.one.one.one
+  - DOMAIN,opera.cloudflare-dns.com
   - DOMAIN,ordns.he.net
   - DOMAIN,private.canadianshield.cira.ca
   - DOMAIN,protected.canadianshield.cira.ca
   - DOMAIN,rdns.faelix.net
+  - DOMAIN,rubyfish.cn
   - DOMAIN,sdns.233py.com
   - DOMAIN,security-filter-dns.cleanbrowsing.org
   - DOMAIN,security.cloudflare-dns.com
+  - DOMAIN,sm2.doh.pub
+  - DOMAIN,unfiltered.adguard-dns.com
+  - IP-CIDR,1.0.0.2/31
   - IP-CIDR,1.1.1.1/32
+  - IP-CIDR,1.1.1.2/31
   - IP-CIDR,101.101.101.101/32
   - IP-CIDR,114.114.114.114/32
+  - IP-CIDR,117.50.22.22/32
   - IP-CIDR,118.89.110.78/32
   - IP-CIDR,119.29.107.85/32
   - IP-CIDR,119.29.29.29/32
@@ -107,6 +126,7 @@ payload:
   - IP-CIDR,223.5.5.5/32
   - IP-CIDR,223.6.6.6/32
   - IP-CIDR,47.96.179.163/32
+  - IP-CIDR,52.80.66.66/32
   - IP-CIDR,58.20.127.170/32
   - IP-CIDR,58.20.127.238/32
   - IP-CIDR,8.8.4.4/32

@@ -12,7 +12,11 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:26
+=======
+最后更新时间：2025-06-06 09:17:33
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +29,11 @@
 
 #### 使用说明
 - ChunYou.yaml，请使用 behavior: "classical"。
+- ChunYou_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - ChunYou.yaml 单独使用。
+- ChunYou_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

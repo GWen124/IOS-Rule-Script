@@ -1,7 +1,11 @@
 # NAME: CloudCN
 # AUTHOR: LM-Firefly
 # REPO: https://github.com/LM-Firefly/Rules
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:53:02
+=======
+# UPDATED: 2025-06-06 09:18:51
+>>>>>>> upstream/master
 # IP-CIDR: 231
 # TOTAL: 231
 IP-CIDR,1.116.116.0/22

@@ -1,7 +1,11 @@
 # NAME: Speedtest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:50:49
+=======
+# UPDATED: 2025-06-06 09:16:53
+>>>>>>> upstream/master
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 4
 # USER-AGENT: 1

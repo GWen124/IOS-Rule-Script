@@ -12,14 +12,18 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:00
+=======
+最后更新时间：2025-06-06 09:17:02
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 121  | 
-| IP-CIDR | 3  | 
-| TOTAL | 124  | 
+| DOMAIN-SUFFIX | 137  | 
+| IP-CIDR | 5  | 
+| TOTAL | 142  | 
 
 
 ## Shadowrocket 

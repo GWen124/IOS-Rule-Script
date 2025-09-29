@@ -12,24 +12,30 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:22
+=======
+最后更新时间：2025-06-06 09:17:29
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 1  | 
-| DOMAIN-SUFFIX | 113  | 
+| DOMAIN-SUFFIX | 114  | 
 | IP-CIDR | 28  | 
-| TOTAL | 142  | 
+| TOTAL | 143  | 
 
 
 ## Clash 
 
 #### 使用说明
 - NetEase.yaml，请使用 behavior: "classical"。
+- NetEase_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - NetEase.yaml 单独使用。
+- NetEase_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -67,6 +73,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEase.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Netease.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/NetEase.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

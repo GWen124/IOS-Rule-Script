@@ -1,9 +1,15 @@
 # NAME: Huawei
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:51:21
 # HOST-SUFFIX: 159
 # TOTAL: 159
+=======
+# UPDATED: 2025-06-06 09:17:29
+# HOST-SUFFIX: 160
+# TOTAL: 160
+>>>>>>> upstream/master
 HOST-SUFFIX,abhouses.com,Huawei
 HOST-SUFFIX,agconnect.link,Huawei
 HOST-SUFFIX,aicccloud.com,Huawei
@@ -60,6 +66,7 @@ HOST-SUFFIX,hiascend.com,Huawei
 HOST-SUFFIX,hiascend.net,Huawei
 HOST-SUFFIX,hiclc.com,Huawei
 HOST-SUFFIX,hicloud.com,Huawei
+HOST-SUFFIX,hihonor.com,Huawei
 HOST-SUFFIX,hikunpeng.com,Huawei
 HOST-SUFFIX,hisilicon.com,Huawei
 HOST-SUFFIX,hisilicon.com.cn,Huawei

@@ -21,19 +21,38 @@ AdGuard DNS Filter 规则！！
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:52:32
+=======
+最后更新时间：2025-06-06 09:18:33
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | DOMAIN | 47311  | 
 | TOTAL | 47311  | 
+=======
+| DOMAIN | 62  | 
+| DOMAIN-SUFFIX | 108988  | 
+| TOTAL | 109050  | 
+>>>>>>> upstream/master
 
 
 ## Surge 
 
 #### 使用说明
 - AdGuardSDNSFilter_Domain.list，请使用DOMAIN-SET。
+
+#### 文件区别
+- AdGuardSDNSFilter_All.list与AdGuardSDNSFilter_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+
+#### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- AdGuardSDNSFilter_All.list 单独使用。
+- AdGuardSDNSFilter_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 
 #### 规则链接
 ## 子规则/排除规则
@@ -43,7 +62,12 @@ AdGuard DNS Filter 规则！！
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《AdGuardSDNSFilter》的数据来自以下链接，如与本项目的《AdGuardSDNSFilter》规则混合使用，可能会造成规则大量重复。
+
+- https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

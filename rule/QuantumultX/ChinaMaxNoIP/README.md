@@ -15,16 +15,21 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-08 02:12:06
+=======
+最后更新时间：2025-09-28 02:10:18
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 174  | 
+| HOST | 277  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 67004  | 
+| HOST-SUFFIX | 116460  | 
+| HOST-WILDCARD | 1  | 
 | USER-AGENT | 65  | 
-| TOTAL | 67256  | 
+| TOTAL | 116816  | 
 
 
 ## QuantumultX 
@@ -63,48 +68,56 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 | 子规则  |  |  |  |  | 
 | ---- | ---- | ---- | ---- | ----  |
 | 115 | 12306 | 17173 | 178 | 17zuoye  | 
-| 360 | 36kr | 4399 | 51Job | 56  | 
-| 58TongCheng | 6JianFang | 8btc | ABC | AcFun  | 
-| Agora | AliPay | AnTianKeJi | Anjuke | BOC  | 
-| BOCOM | BaiFenDian | BaiShanYunKeJi | Baidu | BaoFengYingYin  | 
-| BianFeng | BiliBili | Bootcss | ByteDance | CAS  | 
-| CCB | CCTV | CEB | CGB | CIBN  | 
-| CITIC | CKJR | CMB | CNKI | CNNIC  | 
-| CSDN | CaiNiao | CaiXinChuanMei | Camera360 | ChengTongWangPan  | 
-| China | ChinaASN | ChinaIPs | ChinaIPsBGP | ChinaMax  | 
+| 360 | 36kr | 3Type | 3dm | 4399  | 
+| 4Paradigm | 51Job | 51nod | 56 | 58TongCheng  | 
+| 6JianFang | 8btc | ABC | AcFun | Agora  | 
+| AiQiCha | AirChina | Ali213 | AliPay | Alibaba  | 
+| AmazonCN | AnTianKeJi | Anjuke | Antutu | Apifox  | 
+| BOC | BOCOM | BaiDuTieBa | BaiFenDian | BaiShanYunKeJi  | 
+| Baidu | BaoFengYingYin | BeStore | BesTV | BianFeng  | 
+| BiliBili | Bootcss | ByteDance | CAS | CCB  | 
+| CCTV | CEB | CETV | CGB | CIBN  | 
+| CKJR | CMB | CNKI | CNNIC | CSDN  | 
+| CaiNiao | CaiXinChuanMei | Camera360 | ChengTongWangPan | China  | 
+| ChinaASN | ChinaIPs | ChinaIPsBGP | ChinaIPsTest | ChinaMax  | 
 | ChinaMedia | ChinaMobile | ChinaNews | ChinaNoMedia | ChinaTelecom  | 
-| ChinaTest | ChinaUnicom | ChuangKeTie | ChunYou | DaMai  | 
-| DanDanZan | Dandanplay | DangDang | Dedao | Deepin  | 
-| DiDi | DiLianWangLuo | DiSiFanShi | DianCeWangKe | DingTalk  | 
-| DingXiangYuan | Domob | DouBan | DouYin | Douyu  | 
-| DuoWan | EastMoney | Eleme | FanFou | FeiZhu  | 
-| FengHuangWang | FengXiaWangLuo | Fiio | Funshion | GaoDe  | 
+| ChinaTest | ChinaUnicom | ChuangKeTie | ChunYou | Coolapk  | 
+| DaMai | DanDanZan | Dandanplay | DangDang | Dedao  | 
+| Deepin | DiDi | DiLianWangLuo | DiSiFanShi | DianCeWangKe  | 
+| DingTalk | DingXiangYuan | Domob | DouBan | DouYin  | 
+| Douyu | DuoWan | EastMoney | Eleme | FanFou  | 
+| FangZhengDianZi | FeiZhu | FengHuangWang | FengXiaWangLuo | Fiio  | 
+| Funshion | GaoDe | Geely | Gitee | GovCN  | 
 | GuiGuDongLi | HaiNanHangKong | HanYi | HeMa | HibyMusic  | 
 | Himalaya | Hpplay | HuYa | HuaShuTV | HuanJu  | 
-| Huawei | HunanTV | Hupu | ICBC | JiGuangTuiSong  | 
-| JianGuoYun | JianShu | JinJiangWenXue | JingDong | JueJin  | 
-| Keep | KingSmith | Kingsoft | KouDaiShiShang | Ku6  | 
-| KuKeMusic | KuaiDi100 | KuaiShou | KuangShi | KugouKuwo  | 
-| LanZouYun | LeJu | LeTV | Lenovo | LianMeng  | 
-| LuDaShi | LvMiLianChuang | Maocloud | MeiTu | MeiTuan  | 
-| MeiZu | MiWu | Migu | MingLueZhaoHui | Mogujie  | 
-| Mojitianqi | NGAA | NetEase | NetEaseMusic | OPPO  | 
-| OnePlus | OuPeng | PPTV | PSBC | Pinduoduo  | 
-| PingAn | QiNiuYun | QingCloud | RuanMei | SFExpress  | 
-| SMZDM | ShangHaiJuXiao | Shanling | ShenMa | ShiJiChaoXing  | 
-| ShiNongZhiKe | Sina | Sohu | SouFang | SuNing  | 
-| SuiShiChuanMei | TCL | TaiKang | TaiheMusic | Teambition  | 
-| Tencent | TencentVideo | TianTianKanKan | TianWeiChengXin | TianYaForum  | 
-| TigerFintech | TongCheng | U17 | UC | UCloud  | 
-| UPYun | UnionPay | Vancl | VipShop | Vivo  | 
-| WanKaHuanJu | WanMeiShiJie | WangSuKeJi | WangXinKeJi | WeiZhiYunDong  | 
-| Weibo | WenJuanXing | WiFiMaster | WoLai | XiamiMusic  | 
-| XianYu | XiaoGouKeJi | XiaoMi | XiaoYuanKeJi | XieCheng  | 
+| Huawei | HunanTV | Hupu | ICBC | IPTVMainland  | 
+| JiGuangTuiSong | JianGuoYun | JianShu | JinJiangWenXue | JingDong  | 
+| JueJin | Keep | KingSmith | Kingsoft | KouDaiShiShang  | 
+| Ku6 | KuKeMusic | KuaiDi100 | KuaiShou | KuangShi  | 
+| KugouKuwo | LanZouYun | LeJu | LeTV | Lenovo  | 
+| LianMeng | LuDaShi | LvMiLianChuang | MOOMusic | Maocloud  | 
+| Marketing | MeiTu | MeiTuan | MeiZu | MiWu  | 
+| Migu | MingLueZhaoHui | Mogujie | Mojitianqi | NGA  | 
+| NGAA | NetEase | NetEaseMusic | OPPO | OnePlus  | 
+| OuPeng | PPTV | PSBC | Picacg | Pinduoduo  | 
+| PingAn | QiNiuYun | QingCloud | Qyyjt | RuanMei  | 
+| SFExpress | SMG | SMZDM | ShangHaiJuXiao | Shanling  | 
+| ShenMa | ShiJiChaoXing | ShiNongZhiKe | Sina | Sohu  | 
+| SouFang | Stripe | SuNing | SuiShiChuanMei | TCL  | 
+| TaiKang | TaiheMusic | TapTap | Teambition | Tencent  | 
+| TencentVideo | TianTianKanKan | TianWeiChengXin | TianYaForum | TigerFintech  | 
+| TongCheng | U17 | UC | UCloud | UPYun  | 
+| UnionPay | Vancl | VipShop | Vivo | W3schools  | 
+| WanKaHuanJu | WanMeiShiJie | Wanfang | WangSuKeJi | WangXinKeJi  | 
+| WeChat | WeType | WeiZhiYunDong | Weibo | WenJuanXing  | 
+| WiFiMaster | WoLai | Wteam | XiamiMusic | XianYu  | 
+| XiaoGouKeJi | XiaoMi | XiaoYuanKeJi | XieCheng | XingKongWuXian  | 
 | XueErSi | XueQiu | Xunlei | YYeTs | YiChe  | 
 | YiXiaKeJi | YiZhiBo | YouMengChuangXiang | YouZan | Youku  | 
 | YuanFuDao | YunFanJiaSu | ZDNS | ZhangYue | ZhiYinManKe  | 
-| ZhiYunZhong | ZhongGuoShiHua | ZhongWeiShiJi | ZhongYuanYiShang | ZhuanZhuan  | 
-| iFlytek | iQIYI | ifanr  |  |  | 
+| ZhiYunZhong | Zhihu | ZhongGuoShiHua | ZhongWeiShiJi | ZhongXingTongXun  | 
+| ZhongYuanYiShang | ZhuanZhuan | aiXcoder | iFlytek | iQIYI  | 
+| ifanr | zhanqi  |  |  |  | 
 
 
 ## 数据来源
@@ -127,23 +140,15 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Vip.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Bilibili.list
-- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/Domestic/Bilibili.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/ByteDance/ByteDance.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic%20IPs.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
 - https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list
@@ -154,27 +159,21 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuaWei.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/ChinaMedia.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Tencent%20Video.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/DomesticMedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEase.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Netease.list
 - https://raw.githubusercontent.com/Mazetsz/ACL4SSR/master/Clash/NetEaseCloudMusic.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netease%20Music.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/NeteaseMusic.list
-- https://raw.githubusercontent.com/nzw9314/QuantumultX/master/NeteaseMusic.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Youku.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TencentVideo.list
-- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/Domestic/Tencent.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/iQiyi.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/Domestic/iQiyi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/iQIYI.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Douyu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DouYu.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Podcast/Himalaya.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Ximalaya.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/XiMaLaYa.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/115.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/12306.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/17173.list
@@ -200,7 +199,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CEB.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CGB.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CIBN.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CITIC.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CKJR.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CNKI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CNNIC.list
@@ -346,19 +344,86 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/iFlytek.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ifanr.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CMB.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingCN.list
-- https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/NeteaseCloudMusic.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BaiShanYunKeJi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DiLianWangLuo.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WeiZhiYunDong.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/8btc.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/iQIYI.list
 - https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ChengTongWangPan.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DuoWan.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WanKaHuanJu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ZhiYinManKe.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ShiJiChaoXing.list
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/chinanet6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/chinanet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list
+- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic%20IPs.yaml
+- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic.yaml
+- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Douyin.yaml
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/Government-CN.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/XunLei.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iflytek.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iqiyi.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kingsoft.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kuaishou.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/LeTV.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MOO.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Marketing.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PPTVPPLive.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TapTap.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YYeTs.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bilibili.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/NetEaseMusic.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Wechat.yaml
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ZhongXingTongXun.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Geely.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/FangZhengDianZi.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BeStore.list
+- https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/CMedia.list
+- https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Mainland.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/ByteDance.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Douyu.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/HuaWei.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Iflytek.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Iqiyi.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Kingsoft.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Kuaishou.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Marketing.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Meitu.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/NetEase.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/PPTVPPLive.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TapTap.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Tencent.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TencentVideo.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xunlei.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YYeTs.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Youku.yaml
+- https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02023.m3u8
+- https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E8%BD%AE%E6%92%AD_%E5%8D%8E%E6%95%B0.%E9%BB%91%E8%8E%93.NewTV.SiTV.CIBN.m3u
+- https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E9%87%8D%E5%BA%86%E5%B9%BF%E7%94%B5cqccn.m3u
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
+- https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

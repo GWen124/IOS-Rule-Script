@@ -12,24 +12,30 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:00
+=======
+最后更新时间：2025-06-06 09:17:02
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 121  | 
-| IP-CIDR | 3  | 
+| DOMAIN-SUFFIX | 137  | 
+| IP-CIDR | 5  | 
 | PROCESS-NAME | 2  | 
-| TOTAL | 126  | 
+| TOTAL | 144  | 
 
 
 ## Clash 
 
 #### 使用说明
 - XiaoMi.yaml，请使用 behavior: "classical"。
+- XiaoMi_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - XiaoMi.yaml 单独使用。
+- XiaoMi_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

@@ -1,9 +1,24 @@
 # NAME: ZhongXingTongXun
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:53:05
 # HOST-SUFFIX: 10
 # TOTAL: 10
+=======
+# UPDATED: 2025-06-06 09:18:54
+# HOST-SUFFIX: 20
+# TOTAL: 20
+HOST-SUFFIX,3gcare.cn,ZhongXingTongXun
+HOST-SUFFIX,nubia.cc,ZhongXingTongXun
+HOST-SUFFIX,nubia.cn,ZhongXingTongXun
+HOST-SUFFIX,nubia.com,ZhongXingTongXun
+HOST-SUFFIX,nubia.com.cn,ZhongXingTongXun
+HOST-SUFFIX,nubia.mobi,ZhongXingTongXun
+HOST-SUFFIX,nubia.net.cn,ZhongXingTongXun
+HOST-SUFFIX,redmagic.com,ZhongXingTongXun
+HOST-SUFFIX,shouhubao.com.cn,ZhongXingTongXun
+>>>>>>> upstream/master
 HOST-SUFFIX,zte.com.cn,ZhongXingTongXun
 HOST-SUFFIX,zte.net,ZhongXingTongXun
 HOST-SUFFIX,ztedevice.com,ZhongXingTongXun
@@ -12,5 +27,6 @@ HOST-SUFFIX,ztedevices.com,ZhongXingTongXun
 HOST-SUFFIX,ztehotel.com,ZhongXingTongXun
 HOST-SUFFIX,ztehotel.com.cn,ZhongXingTongXun
 HOST-SUFFIX,ztehotel.net,ZhongXingTongXun
+HOST-SUFFIX,ztemall.com,ZhongXingTongXun
 HOST-SUFFIX,ztems.com,ZhongXingTongXun
 HOST-SUFFIX,zxingyun.com,ZhongXingTongXun

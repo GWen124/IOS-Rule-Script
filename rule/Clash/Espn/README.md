@@ -12,22 +12,29 @@ Espn规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:42
+=======
+最后更新时间：2024-01-13 03:02:44
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 5  | 
-| TOTAL | 5  | 
+| DOMAIN | 3  | 
+| DOMAIN-SUFFIX | 8  | 
+| TOTAL | 11  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Espn.yaml，请使用 behavior: "classical"。
+- Espn_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Espn.yaml 单独使用。
+- Espn_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -61,7 +68,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《Espn》的数据来自以下链接，如与本项目的《Espn》规则混合使用，可能会造成规则大量重复。
+
+- https://rules.kr328.app/espn.yaml
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

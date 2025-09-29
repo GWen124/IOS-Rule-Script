@@ -17,14 +17,18 @@ Cake规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:53:00
+=======
+最后更新时间：2025-06-06 09:18:50
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 4  | 
-| HOST-SUFFIX | 2  | 
-| TOTAL | 6  | 
+| HOST-SUFFIX | 3  | 
+| TOTAL | 7  | 
 
 
 ## QuantumultX 

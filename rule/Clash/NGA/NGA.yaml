@@ -1,12 +1,17 @@
 # NAME: NGA
 # AUTHOR: ameyukisora
 # REPO: https://github.com/ameyukisora/Clash-Rule
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:52:59
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 3
+=======
+# UPDATED: 2024-01-08 16:02:03
+# DOMAIN-SUFFIX: 4
+>>>>>>> upstream/master
 # TOTAL: 4
 payload:
-  - DOMAIN,nga.178.com
-  - DOMAIN-SUFFIX,bbs.nga.cn
+  - DOMAIN-SUFFIX,178.com
+  - DOMAIN-SUFFIX,nga.cn
   - DOMAIN-SUFFIX,ngabbs.com
   - DOMAIN-SUFFIX,ngacn.cc

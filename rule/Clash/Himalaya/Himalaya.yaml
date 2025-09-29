@@ -1,7 +1,11 @@
 # NAME: Himalaya
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:51:22
+=======
+# UPDATED: 2025-06-06 09:17:30
+>>>>>>> upstream/master
 # DOMAIN-SUFFIX: 17
 # TOTAL: 17
 payload:

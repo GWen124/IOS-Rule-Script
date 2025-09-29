@@ -1,15 +1,24 @@
 # NAME: OPPO
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:51:32
 # DOMAIN-SUFFIX: 51
 # TOTAL: 51
+=======
+# UPDATED: 2025-06-06 09:17:37
+# DOMAIN-SUFFIX: 56
+# TOTAL: 56
+>>>>>>> upstream/master
 payload:
   - DOMAIN-SUFFIX,aibreeno.com
   - DOMAIN-SUFFIX,allawnfs.com
   - DOMAIN-SUFFIX,allawno.com
   - DOMAIN-SUFFIX,allawntech.com
   - DOMAIN-SUFFIX,andes.tech
+  - DOMAIN-SUFFIX,andesbrain.com
+  - DOMAIN-SUFFIX,andesclouds.com.cn
+  - DOMAIN-SUFFIX,breenomeet.cc
   - DOMAIN-SUFFIX,coloros.com
   - DOMAIN-SUFFIX,coloros.net
   - DOMAIN-SUFFIX,familyincloud.com
@@ -24,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,heytapdownload.com
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,heytapmobi.com
+  - DOMAIN-SUFFIX,heytapugc.com
   - DOMAIN-SUFFIX,ibreeno.com
   - DOMAIN-SUFFIX,keke.cn
   - DOMAIN-SUFFIX,myoas.com
@@ -52,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,realmebbs.com
   - DOMAIN-SUFFIX,realmemobile.com
   - DOMAIN-SUFFIX,realmeservice.com
+  - DOMAIN-SUFFIX,sj6rgxtjg3tmb.com
   - DOMAIN-SUFFIX,vayol.com
   - DOMAIN-SUFFIX,wanyol.com
   - DOMAIN-SUFFIX,xiaobool.com

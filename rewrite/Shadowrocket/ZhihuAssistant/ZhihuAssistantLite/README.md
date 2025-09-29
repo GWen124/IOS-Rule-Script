@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-MITM--HOSTNAME合并-brightgreen) ![](https://shields.io/badge/-正则推导HOSTNAME-033da7) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-正则推导HOSTNAME-033da7) 
 
 本项目的知乎助手Lite规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -16,19 +16,16 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:54:16
+=======
+最后更新时间：2025-06-06 09:20:55
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 4  | 
-| IP-CIDR | 2  | 
-| URL-REGEX | 3  | 
-| USER-AGENT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 7  | 
-| REJECT | 7  | 
-| MITM | 7  | 
-| TOTAL | 31  | 
+| TOTAL | 0  | 
 
 
 ## Shadowrocket 
@@ -65,12 +62,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 数据来源
 
-《知乎助手Lite》的数据来自以下链接，如与本项目的《知乎助手Lite》规则混合使用，可能造成部分重写重复。
-
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_lite.lnplugin
-
-
-感谢以上规则作者的辛勤付出（排名不分先后）。
+当前规则未直接引用数据源。
 
 ## 最后
 

@@ -1,5 +1,9 @@
 #!name=Amazon MITM (1)
+<<<<<<< HEAD
 #!desc=最后更新时间 2023-02-02 14:50:52
+=======
+#!desc=最后更新时间 2025-06-06 09:16:56
+>>>>>>> upstream/master
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 

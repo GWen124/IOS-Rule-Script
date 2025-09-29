@@ -14,14 +14,24 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:54:07
+=======
+最后更新时间：2025-07-12 02:11:47
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | HTTP-REQUEST-SCRIPT | 8  | 
 | MITM | 7  | 
 | TOTAL | 15  | 
+=======
+| HTTP-REQUEST-SCRIPT | 9  | 
+| MITM | 7  | 
+| TOTAL | 16  | 
+>>>>>>> upstream/master
 
 
 ## QuantumultX 
@@ -60,12 +70,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《获取签到脚本Cookie》的数据来自以下链接，如与本项目的《获取签到脚本Cookie》规则混合使用，可能造成部分重写重复。
 
+<<<<<<< HEAD
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.lnscript
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.sgmodule
+=======
+>>>>>>> upstream/master
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.sgmodule
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

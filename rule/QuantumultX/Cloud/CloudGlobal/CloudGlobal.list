@@ -1,7 +1,11 @@
 # NAME: CloudGlobal
 # AUTHOR: LM-Firefly
 # REPO: https://github.com/LM-Firefly/Rules
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:53:03
+=======
+# UPDATED: 2025-06-06 09:18:52
+>>>>>>> upstream/master
 # HOST-SUFFIX: 19
 # IP-CIDR: 1983
 # IP6-CIDR: 859

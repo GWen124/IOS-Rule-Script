@@ -1,10 +1,15 @@
 # NAME: Disney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:50:50
 # DOMAIN-SUFFIX: 168
+=======
+# UPDATED: 2025-07-30 02:08:18
+# DOMAIN-SUFFIX: 172
+>>>>>>> upstream/master
 # PROCESS-NAME: 2
-# TOTAL: 170
+# TOTAL: 174
 payload:
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
@@ -122,6 +127,7 @@ payload:
   - DOMAIN-SUFFIX,disneyworld-go.com
   - DOMAIN-SUFFIX,dlp-media.com
   - DOMAIN-SUFFIX,dmed.technology
+  - DOMAIN-SUFFIX,dssedge.com
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,dtci.co
   - DOMAIN-SUFFIX,dtci.technology
@@ -137,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,go-disneyworldgo.com
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,hotstar-cdn.net
+  - DOMAIN-SUFFIX,hotstar-labs.com
   - DOMAIN-SUFFIX,hotstar.com
   - DOMAIN-SUFFIX,hotstarext.com
   - DOMAIN-SUFFIX,hsprepack.akamaized.net
@@ -164,6 +171,8 @@ payload:
   - DOMAIN-SUFFIX,spaindisney.com
   - DOMAIN-SUFFIX,star-brasil.com
   - DOMAIN-SUFFIX,star-latam.com
+  - DOMAIN-SUFFIX,starott.com
+  - DOMAIN-SUFFIX,starplus.com
   - DOMAIN-SUFFIX,starwars.com
   - DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
   - DOMAIN-SUFFIX,starwarskids.com

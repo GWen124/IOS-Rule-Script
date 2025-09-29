@@ -12,30 +12,42 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-08 02:10:39
+=======
+最后更新时间：2025-09-28 02:08:48
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 174  | 
+| DOMAIN | 119  | 
 | DOMAIN-KEYWORD | 9  | 
+<<<<<<< HEAD
 | DOMAIN-SUFFIX | 65834  | 
 | IP-CIDR | 10  | 
 | IP-CIDR6 | 4  | 
 | TOTAL | 66031  | 
+=======
+| DOMAIN-SUFFIX | 117337  | 
+| IP-CIDR | 11  | 
+| IP-CIDR6 | 4  | 
+| TOTAL | 117480  | 
+>>>>>>> upstream/master
 
 
 ## Clash 
 
 #### 使用说明
 - ChinaTest.yaml，请使用 behavior: "classical"。
+- ChinaTest_Resolve.yaml，请使用 behavior: "classical"。
 - ChinaTest_Classical.yaml，请使用 behavior: "classical"。
 - ChinaTest_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- ChinaTest_Domain.yaml 单独使用。
 - ChinaTest_Classical.yaml 单独使用。
 - ChinaTest.yaml、ChinaTest_Domain.yaml 共同使用。
+- ChinaTest_Resolve.yaml、ChinaTest_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -95,23 +107,21 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 
 当前分流规则，已排除以下规则：
-| 排除规则  |  | 
-| ---- | ----  |
-| Steam | SteamCN  | 
+| 排除规则  |  |  |  |  | 
+| ---- | ---- | ---- | ---- | ----  |
+| PayPal | Proxy | ProxyLite | Steam | SteamCN  | 
 
 ## 数据来源
 
 《ChinaTest》的数据来自以下链接，如与本项目的《ChinaTest》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
+- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic.yaml
+- https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Mainland.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

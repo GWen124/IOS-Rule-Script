@@ -1,13 +1,17 @@
 # NAME: HBO
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:50:55
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 46
+=======
+# UPDATED: 2025-06-06 09:16:58
+# DOMAIN-SUFFIX: 47
+>>>>>>> upstream/master
 # PROCESS-NAME: 1
 # USER-AGENT: 2
 # TOTAL: 50
-DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,cinemax.com
@@ -44,6 +48,7 @@ DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbounify-prod.evergent.com
 DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,now-tv.com
@@ -52,7 +57,7 @@ DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
-DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*

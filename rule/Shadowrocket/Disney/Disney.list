@@ -1,10 +1,15 @@
 # NAME: Disney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:50:51
 # DOMAIN-SUFFIX: 168
+=======
+# UPDATED: 2025-07-30 02:08:18
+# DOMAIN-SUFFIX: 172
+>>>>>>> upstream/master
 # USER-AGENT: 1
-# TOTAL: 169
+# TOTAL: 173
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -121,6 +126,7 @@ DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dlp-media.com
 DOMAIN-SUFFIX,dmed.technology
+DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
@@ -136,6 +142,7 @@ DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,hotstar-cdn.net
+DOMAIN-SUFFIX,hotstar-labs.com
 DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstarext.com
 DOMAIN-SUFFIX,hsprepack.akamaized.net
@@ -163,6 +170,8 @@ DOMAIN-SUFFIX,sorcerersarena.com
 DOMAIN-SUFFIX,spaindisney.com
 DOMAIN-SUFFIX,star-brasil.com
 DOMAIN-SUFFIX,star-latam.com
+DOMAIN-SUFFIX,starott.com
+DOMAIN-SUFFIX,starplus.com
 DOMAIN-SUFFIX,starwars.com
 DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
 DOMAIN-SUFFIX,starwarskids.com

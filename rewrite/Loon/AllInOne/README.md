@@ -18,11 +18,16 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:54:00
+=======
+最后更新时间：2025-09-04 02:13:23
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | DOMAIN | 5  | 
 | URL-REGEX | 4  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
@@ -31,6 +36,18 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 | REJECT | 505  | 
 | MITM | 559  | 
 | TOTAL | 1113  | 
+=======
+| DOMAIN | 8  | 
+| IP-CIDR | 2  | 
+| IP-CIDR6 | 1  | 
+| URL-REGEX | 12  | 
+| HTTP-REQUEST-SCRIPT | 1  | 
+| HTTP-RESPONSE-SCRIPT | 21  | 
+| REDIRECT | 8  | 
+| REJECT | 698  | 
+| MITM | 740  | 
+| TOTAL | 1491  | 
+>>>>>>> upstream/master
 
 
 ## Loon 
@@ -70,13 +87,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《AllInOne》的数据来自以下链接，如与本项目的《AllInOne》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Shortcuts/reject.txt
-- https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
+<<<<<<< HEAD
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
@@ -88,6 +102,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
+=======
+- https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
+- https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
+- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf
+>>>>>>> upstream/master
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

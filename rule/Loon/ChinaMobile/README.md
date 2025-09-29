@@ -12,19 +12,28 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:26
+=======
+最后更新时间：2025-06-06 09:17:32
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 28  | 
-| TOTAL | 28  | 
+| DOMAIN-SUFFIX | 35  | 
+| IP-CIDR | 1  | 
+| TOTAL | 36  | 
 
 
 ## Loon 
 
+#### 文件区别
+- ChinaMobile_Resolve.list与ChinaMobile.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
+
 #### 配置建议
 - ChinaMobile.list 单独使用。
+- ChinaMobile_Resolve.list 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

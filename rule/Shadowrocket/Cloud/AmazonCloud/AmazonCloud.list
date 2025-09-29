@@ -1,7 +1,11 @@
 # NAME: AmazonCloud
 # AUTHOR: LM-Firefly
 # REPO: https://github.com/LM-Firefly/Rules
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:53:04
+=======
+# UPDATED: 2025-06-06 09:18:53
+>>>>>>> upstream/master
 # IP-CIDR: 1952
 # TOTAL: 1952
 IP-CIDR,100.20.0.0/14,no-resolve

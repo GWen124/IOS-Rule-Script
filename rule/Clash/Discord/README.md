@@ -12,22 +12,28 @@ Discord规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:50:51
+=======
+最后更新时间：2025-06-06 09:16:55
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 28  | 
-| TOTAL | 28  | 
+| DOMAIN-SUFFIX | 29  | 
+| TOTAL | 29  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Discord.yaml，请使用 behavior: "classical"。
+- Discord_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Discord.yaml 单独使用。
+- Discord_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -63,9 +69,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Discord》的数据来自以下链接，如与本项目的《Discord》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Discord.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Discord.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Discord.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Discord.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Discord.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

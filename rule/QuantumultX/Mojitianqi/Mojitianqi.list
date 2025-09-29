@@ -1,7 +1,11 @@
 # NAME: Mojitianqi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:51:32
+=======
+# UPDATED: 2025-06-06 09:17:37
+>>>>>>> upstream/master
 # HOST-SUFFIX: 7
 # TOTAL: 7
 HOST-SUFFIX,airnut.com,Mojitianqi

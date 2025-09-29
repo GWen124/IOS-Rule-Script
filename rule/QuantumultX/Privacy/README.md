@@ -12,15 +12,20 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:48:13
+=======
+最后更新时间：2025-08-12 02:06:18
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 14  | 
-| HOST-SUFFIX | 14873  | 
-| IP-CIDR | 7  | 
-| TOTAL | 14894  | 
+| HOST | 19  | 
+| HOST-KEYWORD | 9  | 
+| HOST-SUFFIX | 39749  | 
+| IP-CIDR | 11  | 
+| TOTAL | 39788  | 
 
 
 ## QuantumultX 
@@ -62,7 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《隐私保护》的数据来自以下链接，如与本项目的《隐私保护》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 
 

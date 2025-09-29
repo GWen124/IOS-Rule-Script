@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-QuantumultX定制化规则-7cd1e3) 
 
 HBO(美国)规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,14 +12,19 @@ HBO(美国)规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:38
+=======
+最后更新时间：2025-06-06 09:17:41
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 6  | 
+| HOST | 2  | 
+| HOST-SUFFIX | 9  | 
 | USER-AGENT | 1  | 
-| TOTAL | 7  | 
+| TOTAL | 12  | 
 
 
 ## QuantumultX 
@@ -62,6 +67,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《HBO(美国)》的数据来自以下链接，如与本项目的《HBO(美国)》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/HBO.list
+- https://raw.githubusercontent.com/luuanng/surge/main/HBOUSA.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

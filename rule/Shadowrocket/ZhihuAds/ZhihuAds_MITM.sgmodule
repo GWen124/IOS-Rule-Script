@@ -1,5 +1,9 @@
 #!name=ZhihuAds MITM (6)
+<<<<<<< HEAD
 #!desc=最后更新时间 2023-02-02 14:51:21
+=======
+#!desc=最后更新时间 2024-01-08 16:00:43
+>>>>>>> upstream/master
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 

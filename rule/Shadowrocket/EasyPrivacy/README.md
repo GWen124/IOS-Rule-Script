@@ -17,55 +17,32 @@ AdBlock Plus EasyPrivacy，仅抽取DOMAIN-SUFFIX类型。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:52:36
+=======
+最后更新时间：2025-06-06 09:18:45
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | DOMAIN | 15230  | 
 | IP-CIDR | 7  | 
 | TOTAL | 15237  | 
+=======
+| DOMAIN | 8  | 
+| DOMAIN-SUFFIX | 39939  | 
+| TOTAL | 39947  | 
+>>>>>>> upstream/master
 
 
 ## Shadowrocket 
 
 #### 使用说明
-- EasyPrivacy.list，请使用RULE-SET。
-- EasyPrivacy_Resolve.list，请使用RULE-SET。
 - EasyPrivacy_Domain.list，请使用DOMAIN-SET。
 
-#### 文件区别
-- EasyPrivacy_Resolve.list与EasyPrivacy.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
-
-#### 配置建议
-- EasyPrivacy.list、EasyPrivacy_Domain.list 共同使用。
-- EasyPrivacy_Resolve.list、EasyPrivacy_Domain.list 共同使用。
-
 #### 规则链接
-**MASTER分支 (每日更新)**
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/EasyPrivacy/EasyPrivacy.list
-
-**MASTER分支 CDN (每日更新)**
-
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/EasyPrivacy/EasyPrivacy.list
-
-**MASTER分支 GHProxy (每日更新)**
-
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/EasyPrivacy/EasyPrivacy.list
-
-**RELEASE分支 (不定时更新)**
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/EasyPrivacy/EasyPrivacy.list
-
-**RELEASE分支CDN (不定时更新)**
-
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Shadowrocket/EasyPrivacy/EasyPrivacy.list
-
-**RELEASE分支 GHProxy (不定时更新)**
-
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/EasyPrivacy/EasyPrivacy.list
-
 ## 子规则/排除规则
 
 
@@ -73,7 +50,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《EasyPrivacy》的数据来自以下链接，如与本项目的《EasyPrivacy》规则混合使用，可能会造成规则大量重复。
+
+- https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

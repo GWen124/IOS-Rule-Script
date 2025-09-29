@@ -1,14 +1,19 @@
 # NAME: Twitter
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:50:51
+=======
+# UPDATED: 2025-09-28 02:08:26
+>>>>>>> upstream/master
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 24
-# IP-CIDR: 7
-# TOTAL: 32
+# DOMAIN-SUFFIX: 26
+# IP-CIDR: 6
+# TOTAL: 33
 payload:
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,t.co
@@ -31,9 +36,9 @@ payload:
   - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twvid.com
   - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-KEYWORD,twitter
   - IP-CIDR,192.133.76.0/22
-  - IP-CIDR,199.16.156.0/22
   - IP-CIDR,199.59.148.0/22
   - IP-CIDR,199.96.56.0/21
   - IP-CIDR,202.160.128.0/22

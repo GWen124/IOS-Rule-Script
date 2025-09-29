@@ -12,22 +12,29 @@ EA规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:48:15
+=======
+最后更新时间：2025-06-06 09:15:09
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| DOMAIN | 2  | 
 | DOMAIN-SUFFIX | 163  | 
-| TOTAL | 163  | 
+| TOTAL | 165  | 
 
 
 ## Clash 
 
 #### 使用说明
 - EA.yaml，请使用 behavior: "classical"。
+- EA_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - EA.yaml 单独使用。
+- EA_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

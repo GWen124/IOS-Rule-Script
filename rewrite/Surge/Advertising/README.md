@@ -16,15 +16,26 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:53:54
+=======
+最后更新时间：2025-09-04 02:13:18
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | REJECT | 542  | 
 | MITM | 497  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
 | TOTAL | 1045  | 
+=======
+| REJECT | 740  | 
+| MITM | 698  | 
+| FORCE-HTTP-ENGINE-HOSTS | 6  | 
+| TOTAL | 1444  | 
+>>>>>>> upstream/master
 
 
 ## Surge 
@@ -79,18 +90,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《复写去广告》的数据来自以下链接，如与本项目的《复写去广告》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Shortcuts/reject.txt
-- https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Rewrite/githubacct001.conf
-- https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
+- https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
+- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

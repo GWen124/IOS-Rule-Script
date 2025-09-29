@@ -12,14 +12,20 @@ Emby规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:52:59
+=======
+最后更新时间：2025-06-06 09:18:49
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| DOMAIN | 3  | 
 | DOMAIN-KEYWORD | 3  | 
-| DOMAIN-SUFFIX | 34  | 
-| TOTAL | 37  | 
+| DOMAIN-SUFFIX | 45  | 
+| PROCESS-NAME | 1  | 
+| TOTAL | 52  | 
 
 
 ## Surge 

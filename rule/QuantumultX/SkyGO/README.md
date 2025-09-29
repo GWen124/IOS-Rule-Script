@@ -12,13 +12,19 @@ SkyGO规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:50:57
+=======
+最后更新时间：2025-08-01 02:08:12
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 2  | 
-| TOTAL | 2  | 
+| HOST | 3  | 
+| HOST-KEYWORD | 3  | 
+| HOST-SUFFIX | 9  | 
+| TOTAL | 15  | 
 
 
 ## QuantumultX 

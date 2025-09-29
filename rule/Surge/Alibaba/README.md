@@ -12,16 +12,20 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:23
+=======
+最后更新时间：2025-08-12 02:08:43
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 1167  | 
+| DOMAIN-SUFFIX | 1266  | 
 | IP-CIDR | 53  | 
 | IP-CIDR6 | 1  | 
 | PROCESS-NAME | 1  | 
-| TOTAL | 1222  | 
+| TOTAL | 1321  | 
 
 
 ## Surge 
@@ -32,9 +36,14 @@
 - Alibaba_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- Alibaba_All.list与Alibaba_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - Alibaba_Resolve.list与Alibaba.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Alibaba_All.list 单独使用。
+- Alibaba_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - Alibaba.list、Alibaba_Domain.list 共同使用。
 - Alibaba_Resolve.list、Alibaba_Domain.list 共同使用。
 
@@ -74,6 +83,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

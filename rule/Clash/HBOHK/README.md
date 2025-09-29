@@ -12,22 +12,29 @@ HBO(香港)规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:38
+=======
+最后更新时间：2025-06-06 09:17:41
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 22  | 
-| TOTAL | 22  | 
+| DOMAIN | 1  | 
+| DOMAIN-SUFFIX | 23  | 
+| TOTAL | 24  | 
 
 
 ## Clash 
 
 #### 使用说明
 - HBOHK.yaml，请使用 behavior: "classical"。
+- HBOHK_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - HBOHK.yaml 单独使用。
+- HBOHK_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

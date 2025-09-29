@@ -12,20 +12,24 @@ GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:50:49
+=======
+最后更新时间：2025-08-12 02:08:07
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 28  | 
-| DOMAIN-KEYWORD | 22  | 
-| DOMAIN-SUFFIX | 1067  | 
+| DOMAIN | 36  | 
+| DOMAIN-KEYWORD | 26  | 
+| DOMAIN-SUFFIX | 1272  | 
 | IP-CIDR | 918  | 
 | IP-CIDR6 | 6  | 
 | PROCESS-NAME | 3  | 
 | URL-REGEX | 1  | 
-| USER-AGENT | 56  | 
-| TOTAL | 2101  | 
+| USER-AGENT | 69  | 
+| TOTAL | 2331  | 
 
 
 ## Surge 
@@ -37,9 +41,14 @@ GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 - URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置GlobalMedia_MITM.sgmodule，仅供参考。
 
 #### 文件区别
+- GlobalMedia_All.list与GlobalMedia_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - GlobalMedia_Resolve.list与GlobalMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- GlobalMedia_All.list 单独使用。
+- GlobalMedia_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - GlobalMedia.list、GlobalMedia_Domain.list 共同使用。
 - GlobalMedia_Resolve.list、GlobalMedia_Domain.list 共同使用。
 
@@ -70,20 +79,30 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 子规则/排除规则
 
+当前分流规则，已包含以下子规则，除非特殊需求否则不建议重复引用：
+| 子规则  |  | 
+| ---- | ----  |
+| YouTube | YouTubeMusic  | 
 
-当前分流规则，未包含其他子规则。
+
+当前分流规则，已排除以下规则：
+| 排除规则  | 
+| ----  |
+| OpenAI  | 
 
 ## 数据来源
 
 《GlobalMedia》的数据来自以下链接，如与本项目的《GlobalMedia》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/GlobalMedia.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/connershua/Quantumult/X/Filter/ForeignMedia.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
+- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/YouTube.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTubeMusic.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/GMedia.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/ForeignMedia.list
-- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/ForeignMedia_New.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml
+- https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/GMedia.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTubeMusic.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

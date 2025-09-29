@@ -1,10 +1,18 @@
 # NAME: DiscoveryPlus
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2023-02-02 14:52:05
+=======
+# UPDATED: 2025-06-06 09:17:52
+# DOMAIN: 3
+>>>>>>> upstream/master
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 11
-# TOTAL: 12
+# TOTAL: 15
+DOMAIN,discovery-us.conax.cloud
+DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
+DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
 DOMAIN-SUFFIX,discoveryplus.co.uk

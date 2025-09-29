@@ -12,7 +12,11 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:53:17
+=======
+最后更新时间：2025-06-06 09:19:14
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +29,11 @@
 
 #### 使用说明
 - IKEA.yaml，请使用 behavior: "classical"。
+- IKEA_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - IKEA.yaml 单独使用。
+- IKEA_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -61,7 +67,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《宜家》的数据来自以下链接，如与本项目的《宜家》规则混合使用，可能会造成规则大量重复。
+
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/IKEA.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/IKEA.yaml
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

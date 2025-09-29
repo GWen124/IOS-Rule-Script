@@ -15,7 +15,11 @@ PChome Online 網路家庭规则由《RULE GENERATOR 规则生成器》自动生
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2023-02-02 14:51:52
+=======
+最后更新时间：2025-06-06 09:17:51
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -28,9 +32,11 @@ PChome Online 網路家庭规则由《RULE GENERATOR 规则生成器》自动生
 
 #### 使用说明
 - PChomeTW.yaml，请使用 behavior: "classical"。
+- PChomeTW_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - PChomeTW.yaml 单独使用。
+- PChomeTW_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
